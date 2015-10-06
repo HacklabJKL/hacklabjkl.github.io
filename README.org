@@ -1,3 +1,15 @@
 * Hacklab Jyväskylä website
 ** Development guide
+Written using Python 2.7.6.
+
+
+tl;dr =pip install -r requirements.txt && make html= then see =output/= dir for generated content. =./develop_server.sh= is handy when doing lots of changes.
+
+See http://docs.getpelican.com/en/3.6.3/quickstart.html
+
+
+Using RST as markup language. Benefit over markdown is that some plugins (vimeo, youtube) are written as rst-directives. 
+
+See guide for writing content: http://docs.getpelican.com/en/3.6.3/content.html
+
 

@@ -11,6 +11,6 @@ Testing...
 Testing pelican_vimeo plugin by kura.
 
 .. vimeo:: 2429061
-   :width: 800
-   :height: 500
+   :width: 500
+   :height: 300
    :align: center
