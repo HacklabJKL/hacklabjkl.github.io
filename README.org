@@ -1,0 +1,3 @@
+* Hacklab Jyväskylä website
+** Development guide
+
