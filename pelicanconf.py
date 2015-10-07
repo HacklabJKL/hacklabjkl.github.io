@@ -7,6 +7,8 @@ SITENAME = u'HacklabJKL'
 SITEURL = ''
 THEME = 'Flex'
 
+FAVICON = SITEURL + '/images/favicon.ico'
+
 PATH = 'content'
 
 TIMEZONE = 'Europe/Helsinki'
@@ -21,10 +23,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (
+    # ('hacklab.fi', 'http://hacklab.fi/'),
+    # ('Jinja2', 'http://jinja.pocoo.org/'),
+    # ('You can modify those links in your config file', '#'),
+)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
