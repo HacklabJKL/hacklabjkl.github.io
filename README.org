@@ -2,11 +2,20 @@
 ** Development guide
 Written using Python 2.7.6.
 
+Work on content:
+#+BEGIN_SRC
+git clone git@github.com:HacklabJKL/hacklabjkl.github.io.git
+cd hacklabjkl.github.io
+git submodule update --recursive
+pip install -r requirements.txt
+make html
 
-tl;dr =pip install -r requirements.txt && make html= then see =output/= dir for generated content. =./develop_server.sh= is handy when doing lots of changes.
+#+END_SRC
+
+Deploy to [[https://pages.github.com/][Github Pages]]: =make github=.
+
 
 See http://docs.getpelican.com/en/3.6.3/quickstart.html
-
 
 Using RST as markup language. Benefit over markdown is that some plugins (vimeo, youtube) are written as rst-directives. 
 
