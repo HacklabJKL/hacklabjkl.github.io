@@ -12,6 +12,7 @@ FAVICON = SITEURL + '/images/favicon.ico'
 PATH = 'content'
 
 TIMEZONE = 'Europe/Helsinki'
+LOCALE = ('fi_FI', 'fi')
 
 DEFAULT_LANG = u'fi'
 
@@ -27,6 +28,7 @@ LINKS = (
     # ('hacklab.fi', 'http://hacklab.fi/'),
     # ('Jinja2', 'http://jinja.pocoo.org/'),
     # ('You can modify those links in your config file', '#'),
+    ('#hacklab.jkl @freenode', 'http://webchat.freenode.net/?channels=%23hacklab.jkl&uio=MTY9dHJ1ZSYxMT0yNDY57'),
 )
 
 # Social widget
