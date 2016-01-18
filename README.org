@@ -12,7 +12,17 @@ make html
 
 #+END_SRC
 
-Deploy to [[https://pages.github.com/][Github Pages]]: =make github=.
+Verify changes locally (browse to http://localhost:8000/):
+#+BEGIN_SRC
+cd output
+python -m pelican.server
+cd ..
+#+END_SRC
+
+Deploy to [[https://pages.github.com/][Github Pages]]:
+#+BEGIN_SRC
+make github
+#+END_SRC
 
 
 See http://docs.getpelican.com/en/3.6.3/quickstart.html
