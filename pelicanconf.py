@@ -28,7 +28,8 @@ LINKS = (
     # ('hacklab.fi', 'http://hacklab.fi/'),
     # ('Jinja2', 'http://jinja.pocoo.org/'),
     # ('You can modify those links in your config file', '#'),
-    ('#hacklab.jkl @freenode', 'http://webchat.freenode.net/?channels=%23hacklab.jkl&uio=MTY9dHJ1ZSYxMT0yNDY57'),
+    ('irc:  #hacklab.jkl @freenode', 'http://webchat.freenode.net/?channels=%23hacklab.jkl&uio=MTY9dHJ1ZSYxMT0yNDY57'),
+    ('email:   hacklabjkl@googlegroups.com', 'mailto:hacklabjkl@googlegroups.com'),
 )
 
 # Social widget
