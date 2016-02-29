@@ -1,16 +1,22 @@
-Kerhotila Protopajalla
-######################
+Kerhotila Keskikatu 18A
+#######################
 
 :date: 2015-10-07 18:01
 :tags: info
 :category: info
 :slug: lab2015
 :authors: Jarkko Saltiola
-:summary: Nykyisiin tiloihin muutettiin syksyllä 2014. Tilat sijaitsevat Protopaja Kalliokoski Oy:n tiloissa joissa Hacklabin yhteisten välineiden lisäksi on käytettävissä Protopajan 3D-tulostimia ja elektroniikan valmistustyökaluja kerholaisille alennetulla hinnalla.
+:summary: Hacklab Jyväskylän kerhotilat ovat Keskikatu 18A:n pommisuojassa. Kaikille avoimet kerhoillat tiistaisin kello 18 alkaen.
 
-Nykyisiin tiloihin muutettiin syksyllä 2014. Tilat sijaitsevat Protopaja Kalliokoski Oy:n tiloissa joissa Hacklabin yhteisten välineiden lisäksi on käytettävissä Protopajan 3D-tulostimia ja elektroniikan valmistustyökaluja kerholaisille alennetulla hinnalla.
+Hacklab Jyväskylän kerhotilat ovat Keskikatu 18A:n pommisuojassa:
 
-Labilla on käytettävissä työskentely- ja säilytystilaa, sekä työvälineitä elektroniikan rakenteluun ja korjaamiseen. Tilan varustukseen kuuluu lisäksi jääkaappi, veden- ja kahvinkeittimet, WC, sekä sauna jonka käytöstä on mahdollista neuvotella vuokrantajan kanssa.
+..  raw:: html
+
+    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=25.723848938941952%2C62.2383323494557%2C25.727593302726746%2C62.24057361589627&amp;layer=mapnik&amp;marker=62.23945300349649%2C25.72572112083435" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=62.23945&amp;mlon=25.72572#map=18/62.23945/25.72572">Näytä isommalla kartalla</a></small>
+
+Talon pihassa ei ole pysäköintitilaa Hacklabilaisille, mutta keskikadun varressa on pysäköintipaikkoja.
+
+Labilla on käytettävissä työskentely- ja säilytystilaa, sekä työvälineitä elektroniikan rakenteluun ja korjaamiseen. WC on käytettävissä talon porraskäytävässä.
 
 Työvälineisiin kuuluvat muunmuassa:
 
@@ -26,10 +32,4 @@ Työvälineisiin kuuluvat muunmuassa:
 
 - Teippiä, tinaa, rautalankaa ja muita kiinnitystarpeita
 
-Kerhotila sijaitsee Savelan teollisuusalueella osoitteessa Onkapannu 4.
 
-.. raw:: html
-         
-   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d16958.93756410427!2d25.729926344410334!3d62.24074436159867!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7e6a5e209cbe2d3d!2sProtopaja+Kalliokoski+Oy!5e0!3m2!1sen!2sfi!4v1444240838624" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-   
-[ lisätään tänne yksityiskohtia ja kuvia tilasta myöhemmin ]
