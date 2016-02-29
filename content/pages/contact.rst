@@ -36,6 +36,14 @@ Hacklabin IRC-kanava on Freenode-verkossa, #hacklab.jkl (`webchat <http://webcha
 Hacklab Jyväskylä ry hallitus
 =============================
 
+Hallitukseen saa yhteyden sähköpostitse:
+
+.. raw:: html
+
+    <span>hacklab-jkl-hallitus<span>@</span><span style="display:none;">POISTA|</span>googlegroups.com
+
+Hallituksen jäsenet:
+
 ==================  ================
 Puheenjohtaja:      Marko Silokunnas
 Varapuheenjohtaja:  Petteri Aimonen
