@@ -12,7 +12,7 @@ FAVICON = SITEURL + '/images/favicon.ico'
 PATH = 'content'
 
 TIMEZONE = 'Europe/Helsinki'
-LOCALE = ('fi_FI', 'fi')
+LOCALE = ('fi_FI.UTF-8', 'fi_FI', 'fi')
 
 DEFAULT_LANG = u'fi'
 
@@ -46,5 +46,5 @@ PLUGINS = [
     # ...
 ]
 
-STATIC_PATHS = ['images', 'extra/CNAME']
+STATIC_PATHS = ['images', 'blogimg', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}

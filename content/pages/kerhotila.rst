@@ -1,5 +1,5 @@
-Kerhotila Keskikatu 18A
-#######################
+Kerhotila
+#########
 
 :date: 2015-10-07 18:01
 :tags: info
