@@ -1,0 +1,22 @@
+Kerhoilta 8.3.: tupa täynnä
+###########################
+
+:date: 2016-03-08 21:20
+:category: kerhoilta
+:authors: Petteri Aimonen
+:summary: Tänään kerhoillassa oli suoranainen yleisöryntäys, kun Instansseilla hacklabista kuulleita opiskelijoita tuli tutustumaan.
+
+Tänään kerhoillassa oli suoranainen yleisöryntäys, kun Instansseilla hacklabista kuulleita opiskelijoita tuli katsomaan. Olisi mahtavaa saada uutta opiskelijasukupolvea mukaan toimintaan, edellisestä kun moni on jo muuttanut pois paikkakunnalta.
+
+Tutustuminen kävi näppärästi tavaroiden järjestelyn ja valojen säädön yhteydessä. Osa vuosien varrella kertyneistä tavaroista on yhtälailla mysteereitä yhdistyksen hallitukselle kuin ensimmäistä kertaa käyville, ja vielä suurempi mysteeri on mistä ne aikanaan löytyvät jos tarvetta ilmenee.
+
+.. image:: /blogimg/20160308_yleiskuvaa.jpg
+
+Saimme yllättäen `Naturventionilta <https://www.naturvention.com/>`_ lahjoituksena ledien tieltä väistyneitä T5-loisteputkivalaisimia. Iso kiitos näistä, tämä ratkoo paljon Hacklabin valaistusongelmia!
+
+.. image:: /blogimg/20160308_valaisin.jpg
+.. image:: /blogimg/20160308_katossa.jpg
+
+Päävalaistus laitetaan katossa kulkevien vesiputkien kohdalle, jotta muutenkin matalaan kattoon ei tule liikaa ylimääräisiä esteitä. Sopivasti kattoon suuntaamalla valo on tasaista eikä häikäise silmää. Johdotukset täytyy vielä viimeistellä oikeaan mittaan ja katsoa saisiko virran suoraan vanhasta kattolampusta.
+
+Labille hommattiin myös prepaid-kännykkä, johon soittamalla pystyy jatkossa kysymään onko ketään paikalla, ja samalla se toimittaa ovikellon virkaa ainakin toistaiseksi.
