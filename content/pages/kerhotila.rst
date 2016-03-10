@@ -4,7 +4,6 @@ Kerhotila
 :date: 2015-10-07 18:01
 :tags: info
 :category: info
-:slug: lab2015
 :authors: Jarkko Saltiola
 :summary: Hacklab Jyväskylän kerhotilat ovat Keskikatu 18A:n pommisuojassa. Kaikille avoimet kerhoillat tiistaisin kello 18 alkaen.
 
@@ -16,6 +15,28 @@ Hacklab Jyväskylän kerhotilat ovat Keskikatu 18A:n pommisuojassa:
 
 Talon pihassa ei ole pysäköintitilaa Hacklabilaisille, mutta keskikadun varressa on pysäköintipaikkoja.
 Jos on vaikeuksia löytää paikalle tai ulko-ovi on mennyt lukkoon, kannattaa soittaa kerhotilan puhelimeen 046 937 8420.
+
+Kerhotilan säännöt
+==================
+
+1. Kerhotila on päihteetön.
+
+2. Kaikki jäsenten omat tavarat tulee merkitä nimellä, tai säilyttää nimellä merkityssä laatikossa.
+
+3. Jäsenet saavat säilyttää omia tavaroitaan tilassa siinä määrin, ettei se haittaa tilan muuta käyttöä. Hallitus huomauttaa tarvittaessa, jos säilytetyistä tavaroista on haittaa. Mieluiten tavarat säilytetään jäsenten tavaroille varatussa hyllyssä, jos mahdollista.
+
+4. Yhdistyksen jäsenet ja heidän tuttunsa voivat oleskella tilassa, kun avaimellinen jäsen on sen avannut ja hoitaa lukitsemisen. Kerhoiltojen ulkopuolella avainjäsenten tulee katsoa, etteivät paikallaolijat tuota vahinkoa tilalle tai tavaroille.
+
+5. Viimeiseksi poistuva avainjäsen:
+    a) Sammuttaa valot
+    b) Tarkistaa että kolvit yms. on sammutettu
+    c) Huolehtii hacklabin oven ja ulko-oven lukkoon.
+
+6. Jos tilassa tai sen varustuksessa ilmenee puutteita, viesti niistä menee varmimmin perille kun sen lähettää joko yhdistyksen tai hallituksen sähköpostilistalle.
+
+
+Tilan varustus
+==============
 
 Labilla on käytettävissä työskentely- ja säilytystilaa, sekä työvälineitä elektroniikan rakenteluun ja korjaamiseen. WC on käytettävissä talon porraskäytävässä.
 
