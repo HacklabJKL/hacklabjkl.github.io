@@ -1,0 +1,32 @@
+Kerhoilta 15.3.: murtopuuhissa
+##############################
+
+:date: 2016-03-15 21:17
+:category: kerhoilta
+:authors: Petteri Aimonen
+:summary: Tänään vedettiin pyöräilyhuppu päähän ja käytiin murtamassa lukko. Lisäksi säädettiin retrokoneita.
+
+Kerhotilaan kuuluu kylmän sodan aikainen salakäytävä, jota soveltunee myös varauloskäynniksi sekä antennimastoksi.
+
+.. image:: /blogimg/20160315_kaytava.jpg
+
+Luukussa on sisäpuolella turvalliseksi tunnettu Abloy Classic lukko, jota edes labin tiirikkaharrastajat eivät lähde yrittämään. Harmillisesti vain avain on kadonnut neuvostoliiton romahtaessa, tai viimeistään vuokralaisen vaihtuessa.
+
+.. image:: /blogimg/20160315_lukko.jpg
+
+Niimpä taloyhtiön luvan saatuamme vedin pyöräilyhupun päähän, suojalasit paikalleen ja kiipesin leikkaamaan Dremelillä lukon sangan poikki. Siinä olikin yllättävästi hommaa, kun kulmat ja työasennot olivat jokseenkin huonot. Lopulta se kuitenkin antoi periksi. Tilalle tuli pelkkä rautatappi, jonka saa aina auki sisältä mutta ei ulkoa.
+
+.. image:: /blogimg/20160315_lukkorikki.jpg
+
+Ai miksikö luukku piti saada auki? No, labille ei ole vielä saatu nettiä. Tilaan kyllä tulee jonkinlainen puhelinkaapeli, johon saisi Elisan ADSL:n, mutta tarjottu hinta oli varsin korkea. Ilmeisesti siksi, kun tila ei ole asunto vaan toimitila, ja liittymä siten yrityspuolelta. Mobiililiittymissä on onneksi enemmän kilpailua, joten täytyy vain saada 4G-antenni maan päälle.
+Tämänhetkinen suunnitelma on pistää mokkula pitkän USB-johdon päähän ja luukusta ulos:
+
+.. image:: /blogimg/20160315_mokkula.jpg
+
+Mokkula itsessään oli usb-liittimestä hajonnut, joten se soveltui erinomaisesti juotettavaksi suoraan johtoon. Vielä tämä jäi vähän openwrt-ajureista sekä mokkulan sijoittelusta kiinni, mutta säätö jatkuu ensi kerralla.
+
+Samaan aikaan toisessa nurkassa labia jatkui sekä valaistuksen asennus, että retropelinurkan pystytys. Ainakin Atari PC:tä ja Segaa siellä säädetään:
+
+.. image:: /blogimg/20160315_retronurkka.jpg
+
+
