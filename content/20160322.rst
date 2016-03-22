@@ -1,0 +1,20 @@
+Kerhoilta 22.3.: reikiä seinään ja 4G-pulmia
+############################################
+
+:date: 2016-03-22 21:17
+:category: kerhoilta
+:authors: Petteri Aimonen
+:summary: Hyllyjen ja lamppujen kiinnitys etenee. Parempaa nettiäkin labille koitetaan virittää, mutta toistaiseksi huonolla menestyksellä.
+
+Iskuporakone on pärissyt kun hyllyjä ja valaisimia on kiinnitelty labin seinille ja kattoon. Seinät osoittautuivat helpoiksi porattaviksi, mutta katto onkin yllättävän tukevaa tavaraa, ja terä meinaa antaa periksi ennen kattoa.
+
+.. image:: /blogimg/20160322_pora.jpg
+
+Nettiongelmat jatkuvat. Tänään huomattiin että eteisen hyllyllä saa downlinkiä 4G:llä peräti 10 Mbit/s, mutta uplink jää n. 1 Mbit/s:iin. Jo viime viikolla säädetty USB-4G-tikku saatiin viimein toimimaan edes jotenkin, kun väliin vaihdettiin aktiivinen usb-jatkojohto - mutta hetken päästä koko wlan-tukari lakkasi vastaamatta. Sitä ennen nopeuksiksi saatiin 6 Mbit/s kumpaankin suuntaan, mikä on kohtuullisesti mutta ei mitenkään erinomaisesti.
+
+Lähimpään telemastoon ei ole matkaa kuin puoli kilometriä, mutta ongelmaksi tulee sisäpiha, josta ei ole suoraa näköyhteyttä mihinkään. Toisellekin puolen taloa saataisiin asennettua antenni, mutta se olisi maan tasalla aivan kadun vieressä, mikä aiheuttaa omat rajoitteensa.
+
+.. image:: /blogimg/20160322_kartta.png
+
+Kuitenkin lupaavat tulokset sisäpihan puolelta antaisivat olettaa, että paremmalla antennilla olisi mahdollista päästä ihan hyviin tuloksiin. Nyt vain pitäisi tietää, onko tässä tapauksessa parempi ns. omni- vai suunta-antenni, kun suunta-antennikin pitäisi suunnata heijastuksen kautta. Lisäksi pitäisi löytää edullinen tukiasema johon ulkoisen antennin saisi kiinni.
+
