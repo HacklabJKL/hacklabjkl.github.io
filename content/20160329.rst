@@ -1,0 +1,31 @@
+Kerhoilta 29.3.: laatikoita ja lisää laatikoita
+###############################################
+
+:date: 2016-03-29 21:17
+:category: kerhoilta
+:authors: Petteri Aimonen
+:summary: Muuton jäljiltä nurkissa on yllättävä määrä laatikoita. Monet niistä ovat mitä ilmeisimmin tulleet purkamatta jo edellistä edeltäneeltä kerhotilalta saakka.
+
+Muuton jäljiltä nurkissa on yllättävä määrä laatikoita. Monet niistä ovat mitä ilmeisimmin tulleet purkamatta jo edellistä edeltäneeltä kerhotilalta saakka. Olisi erittäin mukava päästä sanomaan että nyt on kaikki purettu, mutta ihan siihen pisteeseen homma ei vielä edennyt.
+
+.. image:: /blogimg/20160329_laatikoita.jpg
+
+Laatikoista löytyy myös yllättäviä löytöjä. Tavanomaisen roinan, kuten kymmenien erilaisten tuulettimien ja jäähdytyssiilien lisäksi löytyi mm. kaksi toimivan oloista robottialustaa, jotka on kaiketi vuosia sitten jätetty labille vapaasti hyödynnettäviksi ja unohtuneet laatikoiden perälle. Nyt ne ovat hyllyssä esillä, ehkä joku saa siitä ideoita:
+
+.. image:: /blogimg/20160329_robot.jpg
+
+Elektroniikkalabrojen ainainen ongelma on kaapelien järjestely. Jotain tätä parempaa täytyy keksiä, ehkäpä sopivat lovet johonkin levyyn jotta kaapelit saa siitä roikkumaan:
+
+.. image:: /blogimg/20160329_kaapelit.jpg
+
+Toisaalla säädettiin Ataria kiinni modeemiin, sekä mietittiin mahdollisuuksia CNC-jyrsimen rakentamiseen.
+
+.. image:: /blogimg/20160329_saatoa.jpg
+
+Myös 4G-säätö eteni hieman. Alkuillasta kaikki toimi täydellisesti, ja hetken jo saattoi luulla vian korjautuneen. Mutta parin tunnin päästä wlan alkoi taas pätkiä. Tarkemmassa debuggauksessa selvisi, että 4G kyllä toimi mutta wlan katosi johonkin - joko openwrt kaatuilee, tai sitten reittimen virtalähde ei jaksa sekä modeemia että wlania. Virransyöttöä koitettiin oskilloskoopillakin katsella, mutta häiriöt eivät näyttäneet mitenkään järkyttävän isoilta.
+
+No, piuhan kautta tuo reititin tuntuisi toimivan, ja ilman USB:tä olevia wlan-tukiasemia piisaa. Saattaa siis olla, että labin luotettavuutta huokuva nettiratkaisu on jossain vaiheessa tällainen:
+
+.. image:: /blogimg/20160329_wlan.png
+
+
