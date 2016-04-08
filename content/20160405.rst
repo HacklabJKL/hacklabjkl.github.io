@@ -1,4 +1,4 @@
-Kerhoilta 4.5.: katto onkin rautaa!
+Kerhoilta 5.4.: katto onkin rautaa!
 ###############################################
 
 :date: 2016-04-05 21:17
