@@ -1,0 +1,20 @@
+Kerhoilta 19.4.: Sadepäivän siivoilua
+#####################################
+
+:date: 2016-04-19 21:17
+:category: kerhoilta
+:authors: Petteri Aimonen
+:summary: Tänään vaikutti jo että sadepäivä on karkottanut kävijät, mutta ihmiset ilmestyivätkin vasta vähän myöhemmin illalla.
+
+Tänään vaikutti jo että sadepäivä on karkottanut kävijät, mutta ihmiset ilmestyivätkin vasta vähän myöhemmin illalla. Itse jouduin kahdeksan maissa jo lähtemään, joten paljon illan touhuista jäi näkemättä.
+
+Ennen sitä ehdin kuitenkin itsekseni siivoilla paikkoja ja nyt on ainakin kaikissa pöytälevyissä jalat paikallaan ja suurin osa tavaroista jokseenkin paikallaan.
+
+.. image:: /blogimg/20160419_siivoilua.jpg
+
+Sen verran ehdin nähdä iltavuoron säätöä, että labilla olevaa verkkotulostinta yritettiin putsailla. Värikasettejakin tuohon HP:n värilaseriin tarvittaisiin, harmillisesti maksavat 60e/kpl.
+
+.. image:: /blogimg/20160419_tulostin.jpg
+
+Mukana oli myös FPU-piiri (8087) labin Atari PC:hen sekä tinaimuasema, joita illan tullen varmaankin kokeiltiin.
+
