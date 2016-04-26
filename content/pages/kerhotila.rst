@@ -42,13 +42,25 @@ Kerhotilan säännöt
 Tilan varustus
 ==============
 
+.. raw:: html
+
+    <a href="/images/kerhotila1.jpg"><img src="/images/kerhotila1.jpg" /></a>
+
+.. raw:: html
+
+    <a href="/images/kerhotila2.jpg"><img src="/images/kerhotila2.jpg" /></a>
+
 Labilla on käytettävissä työskentely- ja säilytystilaa, sekä työvälineitä elektroniikan rakenteluun ja korjaamiseen. WC on käytettävissä talon porraskäytävässä.
 
 Työvälineisiin kuuluvat muunmuassa:
 
 - Lämpötilasäädettävä juotin (tuttavallisemmin "kolvi")
 
+- Kuumailmajuotin
+
 - Oikosulkusuojattu jännitelähde
+
+- Suojaerotusmuuntaja
 
 - Digitaalinen oskilloskooppi
   
@@ -57,5 +69,7 @@ Työvälineisiin kuuluvat muunmuassa:
 - Pihtejä, avaimia, ruuvimeisseleitä jne.
 
 - Teippiä, tinaa, rautalankaa ja muita kiinnitystarpeita
+
+- Joitakin komponentteja, kuten yleisimmät elektrolyyttikondensaattorit
 
 
