@@ -21,7 +21,7 @@ Esimerkki hakemuksesta:
 
     Hei,
 
-    Haluaisin liittyä Hacklab Jyväskylä ry:n jäseneksi.
+    Haluaisin liittyä Hacklab Jyväskylä ry:n perusjäseneksi (10e/kk).
     Nimeni on Matti Meikäläinen ja sähköpostiosoitteeni matti@example.com
 
     Terveisin,
