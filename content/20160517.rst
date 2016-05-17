@@ -1,0 +1,35 @@
+Kerhoilta 17.5.: Pidikkeitä ja telineitä
+########################################
+
+:date: 2016-05-17 21:17
+:category: kerhoilta
+:authors: Petteri Aimonen
+:summary: Työkalujen ja johtojen säilytys on ainainen ongelma, johon ei oikein täydellisiä ratkaisuja ole vaikka rahaa käyttäisi kuinka. Monenlaista näppärää telinettä voi kuitenkin rakennella itsekin ilmaiseksi.
+
+Lieneekö kevät vienyt hakkerit, kun tänään oli kerhoillassa kovin hiljaista. No, itsekin olin viimeviikon poissa ja blogipostauskin jäi puuttumaan - kuulemma viime viikolla ohjelmassa oli mm. pylväsporan säätöä, mistä tullee pidempikin kirjoitus lähiaikoina.
+
+Käytin illan rakennellen telineitä hankalammin säilytettäville työkaluille ja johdoille. Säilytysratkaisut ovat ikuinen ongelma, johon ei oikein täydellisiä ratkaisuja ole vaikka rahaa käyttäisi kuinka. Monenlaista näppärää telinettä voi kuitenkin rakennella itsekin ilmaiseksi.
+Samalla pääsin koeajamaan vastikään huollettua vannesahaa ja pylväsporaa.
+
+Ensimmäisenä vuorossa johtoteline, joka on ihan vain sahailtu vanerista:
+
+.. image:: /blogimg/20160517_johto1.jpg
+
+.. image:: /blogimg/20160517_johto2.jpg
+
+Yhtenä työkaluseinänä on vanha melamiinipöytälevy. Tämä onkin hyvin näppärä ratkaisu, kun ruuveista ja puupalasista saa helposti tehtyä pidikkeitä hankalankin muotoisille työkaluille. Lisäksi on helppo toteuttaa klassinen niksi työkalujen ääriviivojen piirtämisestä tauluun:
+
+.. image:: /blogimg/20160517_meisselit.jpg
+
+Kaikki nämä syntyivät ilmaiseksi labilla jo olleista hukkapalasista. Kaikenlaista materiaalia onkin nurkkiin kertynyt, mm. lahjoituksena saatujen loisteputkien alkuperäiset asennusputket:
+
+.. image:: /blogimg/20160517_putkia.jpg
+
+No, yhdelle niistäkin löytyi uusi elämä paperitelineen muodossa:
+
+.. image:: /blogimg/20160517_paperiteline.jpg
+
+Muista labiasioista puheenollen, kimppatilaus TME:ltä saapui tänään myös. Tämmöisiä elektroniikkatavaran vapaamuotoisia kimppatilauksia on aina silloin tällöin, joten jos tahtoo säästää postikuluissa kannattaa tulla hengaamaan yhdistyksen irc-kanavalle.
+
+.. image:: /blogimg/20160517_tme.jpg
+
