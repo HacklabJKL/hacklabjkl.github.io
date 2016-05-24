@@ -1,0 +1,31 @@
+Kerhoilta 24.5.: Dokumenttikameran säätöä
+#########################################
+
+:date: 2016-05-24 21:17
+:category: kerhoilta
+:authors: Petteri Aimonen
+:summary: Labille olisi kiva saada digikamera näppärään kerhoiltojen ja projektien dokumentointiin. Helsingin Hacklabilla on näppärä konsepti, jossa EyeFi-kortilla ladataan kuvat suoraan nettiin.
+
+Labille olisi kiva saada digikamera näppärään kerhoiltojen ja projektien dokumentointiin. Tällöin kuvia ehkä muistaisi helpommin myös ottaa. Helsingin Hacklabilla on `näppärä konsepti <https://discourse.hacklab.fi/t/dokumentointikamera/175>`_, jossa EyeFi-kortilla ladataan kuvat suoraan nettiin. Kyseessä on siis SD-kortti, jossa on integroitu wifi-yhteys. Kun kortille konffaa wlanin salasanan, sen pitäisi osata lähettää kuvia esim. flickriin suoraan.
+
+Käyttöön sopiva kamerakin löytyy, ja hommasin eBaysta 4GB EyeFi-kortin.
+
+.. image:: /blogimg/20160524_eyefi.jpg
+
+Kortin käyttöön on olemassa jotain Linux-softia, mutta ensimmäinen aktivointi pitää silti tehdä Windows-koneella. Siitäpä onkin tullut ongelma, kun Windows-softa sanoo ainoastaan "Failed to initialize card". Ilmeisesti se on kovin nirso sd-kortinlukijan suhteen, jostain pitäisi löytää sopiva USB-väyläinen lukija lainaan.
+
+Toisaalla jatkui pylväsporakoneen säätö. Suurimmilta osin se onkin jo kunnossa, mutta hihna vielä hiertää - nimittäin koteloa. Vuosien varrella vaihteiston kiilahihna on venynyt sen verran että se osuu osalla vaihteista vaihteiston peltikoteloon, rajoittaen siten aika paljon nopeusvaihtoehtoja.
+
+.. image:: /blogimg/20160524_hihnat.jpg
+
+Korvaavan hihnan löytäminen ei olekaan täysin helppoa, koska se on vähän harvinaisempaa, ilmeisesti 8x6 mm kokoa ja pituudeltaan 660-680 mm luokkaa. Toisaalta hihnapyörät ovat hieman häiritsevän epäkeskeiset, joten mielessä on ollut sekin että jos ne vaihtaisi kokonaan uusiin.
+
+Lisäksi ihasteltiin kaiken toimistotyöskentelyn mullistavaa ohjelmistojen kehitysaskelta, Excel 2.1:aa, joka on saatu Atari PC:lle asennettua. Mikä hauskinta, yhteensopivuus 26 vuoden takaa toimii moitteetta - uusin LibreOffice avaa mukisematta Atarilla tallennetut .xls-tiedostot.
+
+.. image:: /blogimg/20160524_excel.jpg
+
+Eräs uusi tulokas toi nähtäville myös oman tietokoneen vesijäähdytinratkaisunsa. Kuulemma siihen pitäisi vain löytää sopiva lauhdutin jotta se olisi käyttökunnossa:
+
+.. image:: /blogimg/20160524_vesijaahy.jpg
+
+
