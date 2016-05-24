@@ -29,7 +29,7 @@ LINKS = (
     # ('Jinja2', 'http://jinja.pocoo.org/'),
     # ('You can modify those links in your config file', '#'),
     ('irc:  #hacklab.jkl @freenode', 'http://webchat.freenode.net/?channels=%23hacklab.jkl&uio=MTY9dHJ1ZSYxMT0yNDY57'),
-    ('<iframe style="margin-top: 2em;" frameBorder="0" width="200" height="300" src="http://koti.kapsi.fi/jpa/stuff/hacklab-wlan-users.html"> </iframe>', ''),
+    ('<iframe style="margin-top: 2em;" frameBorder="0" width="200" height="200" src="http://koti.kapsi.fi/jpa/stuff/hacklab-wlan-users.html"> </iframe>', ''),
 )
 
 # Social widget
