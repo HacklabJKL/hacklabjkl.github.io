@@ -46,5 +46,5 @@ PLUGINS = [
     # ...
 ]
 
-STATIC_PATHS = ['images', 'blogimg', 'extra/CNAME']
+STATIC_PATHS = ['images', 'blogimg', 'pdfs', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
