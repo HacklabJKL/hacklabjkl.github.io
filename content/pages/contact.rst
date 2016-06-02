@@ -46,9 +46,10 @@ Hallitukseen saa yhteyden sähköpostitse:
 
 Hallituksen jäsenet:
 
-==================  ================
-Puheenjohtaja:      Marko Silokunnas
-Varapuheenjohtaja:  Petteri Aimonen
-Rahastonhoitaja:    Jukka Kinnunen
-Hallituksen jäsen:  Osmo Paananen
-==================  ================
+===================  ================
+Puheenjohtaja:       Petteri Aimonen
+Varapuheenjohtaja:   Osmo Paananen
+Rahastonhoitaja:     Jukka Kinnunen
+SoMe-yhteyshenkilö:  Mio Taalas
+Hallituksen jäsen:   Juhana Suhonen
+===================  ================
