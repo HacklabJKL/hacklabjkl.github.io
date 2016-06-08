@@ -1,0 +1,21 @@
+Kerhoilta 7.6.: Bonkkipaisumus
+##############################
+
+:date: 2016-06-07 21:17
+:category: kerhoilta
+:authors: Petteri Aimonen
+:summary: Kevään aikana labille on aktiivisesti etsitty kaikenlaista mielenkiintoista bonkkia ja muuta pois menossa ollutta tavaraa purettavaksi ja uusiokäyttöön. Sitä onkin nyt alkanut löytymään läjittäin, ja edessä on lajittelu-urakka.
+
+Kevään aikana labille on aktiivisesti etsitty kaikenlaista mielenkiintoista bonkkia ja muuta pois menossa ollutta tavaraa purettavaksi ja uusiokäyttöön. Sitä onkin nyt alkanut löytymään läjittäin, ja edessä on lajittelu-urakka.
+
+.. image:: /blogimg/20160607_esr3.jpg
+
+Välittömästi käyttöä löytänee ainakin akkuporakone ja digikamera. Jotain jännää voinee rakentaa myös pesukoneesta puretusta moottorista.
+
+.. image:: /blogimg/20160607_esr2.jpg
+
+Mielenkiintoista rautaa on myös pikkuvikainen hallittava kytkin sekä oletettavasti täysin toimiva videotykki. Bonkissa tuli myös esityksissä käytettäviä dianvaihtokaukosäätimiä, joten nythän labilla on erinomaiset edellytykset alkaa järjestämään powerpoint-maratoneja!
+
+.. image:: /blogimg/20160607_esr1.jpg
+
+Myös muistikampoja tuli läjä, joilla voinee ainakin päivittää labran säätö-PC:n.
