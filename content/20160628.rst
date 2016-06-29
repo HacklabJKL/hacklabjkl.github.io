@@ -1,0 +1,23 @@
+Kerhoilta 28.6.: Elektroniikkasäätöä
+####################################
+
+:date: 2016-06-28 21:17
+:category: kerhoilta
+:authors: Petteri Aimonen
+:summary: Kesäiltaa vietettiin elektroniikkasäädön merkeissä. Mm. Nintendo-ohjaimen korjaamista ja NodeMCU:ta ihmeteltiin.
+
+Kesäiltaa vietettiin elektroniikkasäädön merkeissä. Yhtenä säätökohteena oli Nintendo-ohjain josta ohjaintappi on kovan pelaamisen tuoksinassa hajonnut. Mietinnän alla oli voisiko siihen 3D-tulostaa varaosan:
+
+.. image:: /blogimg/20160628_nintendo.jpg
+
+Labran akkuporakoneeseen löytyi uudet kennot `TME:ltä <http://tme.eu/>`_ edullisesti. Nyt vain kennottamista varten pitäisi rakentaa mikroaaltouunin muuntajasta pistehitsauslaite. Aika paljon hommaa jos se olisi vain yhtä akkua varten, mutta pistehitsaukselle piisaa käyttökohteita muutenkin.
+
+.. image:: /blogimg/20160628_akku.jpg
+
+Itse jatkoin säätöä labran nurkista löytyneen Pandaboardin kanssa. Ekana vaikeutena oli ettei sopivaa piuhaa sarjaporttikonsolille löytynyt, ja Ubuntun imagessa ei oletuksena ollut ssh-serveriä. Onneksi SD-kortille pääsi kuitenkin kirjoittamaan, ja sitä kautta laitoin rc.localiin netcatin avaamaan shellin suoraan verkkoon. On se kun pitää hakkeroitua sisään purkkiin jota on itse asentamassa :) Tarkoitus olisi jossain vaiheessa yhdistää tämä kameran telakkaan, jolloin se voisi automaattisesti lähettää labin kamerasta kuvat nettiin:
+
+.. image:: /blogimg/20160628_pandaboard.jpg
+
+Lisäksi Osmo sääsi postissa tulleen `NodeMCU <http://nodemcu.com/>`_-levynsä kanssa. NodeMCU on ESP8266-wifi-palikoille tehty Lua-pohjainen ohjelmointiympäristö, joka on vaihtoehto C/C++-pohjaisille ohjelmointialustoille. Ihan heti se ei lähtenyt toimimaan, kun ohjelmien lataukseen käytetyt skriptit antoivat vain kummallisia Python-virheitä.
+
+
