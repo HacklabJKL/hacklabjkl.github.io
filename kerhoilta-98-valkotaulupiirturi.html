@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="http://jyvaskyla.hacklab.fi/theme/css/style.min.css">
+  <link rel="stylesheet" type="text/css" href="http://jyvaskyla.hacklab.fi/theme/css/pygments.min.css">
+  <link rel="stylesheet" type="text/css" href="http://jyvaskyla.hacklab.fi/theme/css/font-awesome.min.css">
+  <link href="http://jyvaskyla.hacklab.fi/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="HacklabJKL Atom">
+  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="" />
+<meta name="author" content="Petteri Aimonen" />
+<meta name="description" content="Tänään mm. suunniteltiin CoreXY-mekaniikkaan pohjautuvaa valkotaulupiirturia, säädettiin APRS-tukiasemaa ja viriteltiin sähköjakoa." />
+<meta name="keywords" content="">
+<meta property="og:site_name" content="HacklabJKL"/>
+<meta property="og:title" content="Kerhoilta 9.8.: Valkotaulupiirturi"/>
+<meta property="og:description" content="Tänään mm. suunniteltiin CoreXY-mekaniikkaan pohjautuvaa valkotaulupiirturia, säädettiin APRS-tukiasemaa ja viriteltiin sähköjakoa."/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:url" content="http://jyvaskyla.hacklab.fi/kerhoilta-98-valkotaulupiirturi.html"/>
+<meta property="og:type" content="article"/>
+<meta property="article:published_time" content="2016-08-09 21:17:00+03:00"/>
+<meta property="article:modified_time" content=""/>
+<meta property="article:author" content="http://jyvaskyla.hacklab.fi/author/petteri-aimonen.html">
+<meta property="article:section" content="kerhoilta"/>
+<meta property="og:image" content="">  <title>HacklabJKL &ndash; Kerhoilta 9.8.: Valkotaulupiirturi</title>
+</head>
+<body>
+  <aside>
+    <div>
+      <a href="http://jyvaskyla.hacklab.fi">
+        <img src="http://jyvaskyla.hacklab.fi/images/logo.png" alt="" title="">
+      </a>
+      <h1><a href="http://jyvaskyla.hacklab.fi"></a></h1>
+      <p></p>
+      <nav>
+        <ul class="list">
+          <li><a href="http://jyvaskyla.hacklab.fi/pages/jasenyys.html#jasenyys">Jäsenyys</a></li>
+          <li><a href="http://jyvaskyla.hacklab.fi/pages/kerhotila.html#kerhotila">Kerhotila</a></li>
+          <li><a href="http://jyvaskyla.hacklab.fi/pages/yhdistys.html#yhdistys">Yhdistys</a></li>
+          <li><a href="http://jyvaskyla.hacklab.fi/pages/yhteystiedot.html#yhteystiedot">Yhteystiedot</a></li>
+          <li><a href="http://webchat.freenode.net/?channels=%23hacklab.jkl&uio=MTY9dHJ1ZSYxMT0yNDY57" target="_blank">irc:  #hacklab.jkl @freenode</a></li>
+          <li><a href="" target="_blank"><iframe style="margin-top: 2em;" frameBorder="0" width="200" height="200" src="http://koti.kapsi.fi/jpa/stuff/hacklab-wlan-users.html"> </iframe></a></li>
+        </ul>
+      </nav>
+      <ul class="social">
+      </ul>
+    </div>
+  </aside>
+  <main>
+
+<article>
+  <header>
+    <h1 id="kerhoilta-98-valkotaulupiirturi">Kerhoilta 9.8.: Valkotaulupiirturi</h1>
+    <p>Posted on ti 09 elokuu 2016 in <a href="http://jyvaskyla.hacklab.fi/category/kerhoilta.html">kerhoilta</a></p>
+  </header>
+  <div>
+    <p>Valkotaululle piirtäminen on kovin työlästä, ja siihen tarvitaan selvästikin automaatiota avuksi. Netissä on <a class="reference external" href="http://9gag.com/gag/ae6gLbj">kaikenlaisia hienoja virityksiä</a>, josta tulikin idea tehdä valkotaulupiirturi CoreXY-mekaniikkaan pohjautuen. Osmo ja Juhana kavereineen suunnittelivat tulostettavia osia tähän OpenSCADilla:</p>
+<img alt="" src="/blogimg/20160809-corexy.jpg" />
+<p>Joel puolestaan viritti radioamatöörien APRS-verkkoon tukiasemaa (eli hienommin sanottuna APRS RX IGate). Rautana on ARM-pohjainen tietokone, ja siihen USB:n kautta kytketty rtlsdr-softaradio, ohjelmistona rtl_fm ja <a class="reference external" href="https://github.com/wb2osz/direwolf">direwolf</a>. Työn alla oli vastaanottoparametrien virittäminen, jotta kuuluvuus maksimoituisi ARM:n laskentakapasiteetin rajoissa. Itse tukiasema on Lutakossa kerrostalokämpässä, ja paketit lähtivät käsiradiolla Hacklabin pihalta:</p>
+<img alt="" src="/blogimg/20160809-aprs.jpg" />
+<p>Joni puolestaan kokosi astetta edistyneempää jatkojohtoa kotiinsa. Tähän on tulossa automaattisulakkeet, katkaisija sekä vikavirtasuojakin. Jonkin verran keskusteltiin siitä, missä menee kiinteän asennuksen (johon tarvitaan luvat) ja jatkojohdon raja, mutta yleisesti konsensus taitaa olla että töpselin perään saa aika vapaasti rakennella kaikenlaista kunhan uskaltaa ottaa vastuun turvallisuudesta.</p>
+<img alt="" src="/blogimg/20160809-sahko.jpg" />
+
+  </div>
+  <div class="tag-cloud">
+    <p>
+    </p>
+  </div>
+</article>
+
+    <footer>
+      <p>&copy; Hacklab Jyväskylä ry </p>
+<p>Built using <a href="http://getpelican.com" target="_blank">Pelican</a> - <a href="https://github.com/alexandrevicenzi/flex" target="_blank">Flex</a> theme by <a href="http://alexandrevicenzi.com" target="_blank">Alexandre Vicenzi</a></p>    </footer>
+  </main>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "name": "Kerhoilta 9.8.: Valkotaulupiirturi",
+  "headline": "Kerhoilta 9.8.: Valkotaulupiirturi",
+  "datePublished": "2016-08-09 21:17:00+03:00",
+  "dateModified": "",
+  "author": {
+    "@type": "Person",
+    "name": "Petteri Aimonen",
+    "url": "http://jyvaskyla.hacklab.fi/author/petteri-aimonen.html"
+  },
+  "image": "{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/profile.png",
+  "url": "http://jyvaskyla.hacklab.fi/kerhoilta-98-valkotaulupiirturi.html",
+  "description": "Tänään mm. suunniteltiin CoreXY-mekaniikkaan pohjautuvaa valkotaulupiirturia, säädettiin APRS-tukiasemaa ja viriteltiin sähköjakoa."
+}
+</script></body>
+</html>
