@@ -1,0 +1,20 @@
+Kerhoilta 9.8.: Valkotaulupiirturi
+##################################
+
+:date: 2016-08-09 21:17
+:category: kerhoilta
+:authors: Petteri Aimonen
+:summary: Tänään mm. suunniteltiin CoreXY-mekaniikkaan pohjautuvaa valkotaulupiirturia, säädettiin APRS-tukiasemaa ja viriteltiin sähköjakoa.
+
+Valkotaululle piirtäminen on kovin työlästä, ja siihen tarvitaan selvästikin automaatiota avuksi. Netissä on `kaikenlaisia hienoja virityksiä <http://9gag.com/gag/ae6gLbj>`_, josta tulikin idea tehdä valkotaulupiirturi CoreXY-mekaniikkaan pohjautuen. Osmo ja Juhana kavereineen suunnittelivat tulostettavia osia tähän OpenSCADilla:
+
+.. image:: /blogimg/20160809-corexy.jpg
+
+Joel puolestaan viritti radioamatöörien APRS-verkkoon tukiasemaa (eli hienommin sanottuna APRS RX IGate). Rautana on ARM-pohjainen tietokone, ja siihen USB:n kautta kytketty rtlsdr-softaradio, ohjelmistona rtl_fm ja `direwolf <https://github.com/wb2osz/direwolf>`_. Työn alla oli vastaanottoparametrien virittäminen, jotta kuuluvuus maksimoituisi ARM:n laskentakapasiteetin rajoissa. Itse tukiasema on Lutakossa kerrostalokämpässä, ja paketit lähtivät käsiradiolla Hacklabin pihalta:
+
+.. image:: /blogimg/20160809-aprs.jpg
+
+Joni puolestaan kokosi astetta edistyneempää jatkojohtoa kotiinsa. Tähän on tulossa automaattisulakkeet, katkaisija sekä vikavirtasuojakin. Jonkin verran keskusteltiin siitä, missä menee kiinteän asennuksen (johon tarvitaan luvat) ja jatkojohdon raja, mutta yleisesti konsensus taitaa olla että töpselin perään saa aika vapaasti rakennella kaikenlaista kunhan uskaltaa ottaa vastuun turvallisuudesta.
+
+.. image:: /blogimg/20160809-sahko.jpg
+
