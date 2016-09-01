@@ -1,0 +1,25 @@
+Kerhoilta 30.8.: Lohikäärme
+###########################
+
+:date: 2016-08-30 21:17
+:category: kerhoilta
+:authors: Petteri Aimonen
+:summary: Tänään labilla tehtiin mm. lohikäärmenaamaria, johon ei tosin ehdotuksista huolimatta kuitenkaan ole tulossa liekinheitintä.
+
+Hacklabin mekaniikkapuolta on haitannut pöytien huojuminen. Suunnitteilla on ollut rakentaa puurunkoinen kunnon viilauspöytä, mutta `paikallisen protopajan <http://proto-kk.fi/>`_ poistomyynnistä löytyikin tukeva metallirunkoinen tapaus. Uusi pöytä on kuvassa vasemmalla ja kirjoittaja itse pöydän alla viimeistelemässä kiinnitystä seinään:
+
+.. image:: /blogimg/20160830-poyta.jpg
+
+Tuntuisi ainakin toistaiseksi varsin tukevalta, ja seinään se on kiinnitetty puukappaleen kautta jotta pysyisi toivottavasti jatkossakin hyvin paikallaan. Ruuvipenkki vielä puuttuu, mutta ensialkuun vaikkapa `Puuilon halvin versio <https://www.puuilo.fi/epages/puuilo.sf/fi_FI/?ObjectPath=/Shops/2014011303/Products/10090635>`_ voisi hyvinkin riittää.
+
+Samasta myynnistä matkaan tarttui myös hiljaiseksi mainostettu kompressori, jonka ääni tosiaan on varsin miellyttävä:
+
+.. image:: /blogimg/20160830-kompressori.jpg
+
+Illan projekteja oli mm. jostain löytyneiden ledimatriisinäyttöjen ihmettely, ja oma edelleen jatkuva säätöni Pandaboardin kanssa. Viimeksi päivitin sen Ubuntu 16.04:ään, jonka jälkeen kerneliä ei enää huvittanut bootata. No, ostin eurolla sarjaporttiadapterin ebaysta, mutta se osoittautuikin CH340-(klooni?)pohjaiseksi värkiksi joka ei Linux-ajurien kanssa suostunut toimimaan oikein. No, virtuaalikoneessa Windowsin alla tämäkin ongelma ratkesi, mutta uutta kerneliä en vielä saanut toimimaan.
+
+Erikoisin projekti oli kuitenkin paperimassainen lohikäärmenaamari. Kuten arvata saattaa, ehdotuksia liekinheittimen integroimiseksi sateli useammaltakin taholta. Jostain syystä ne eivät naamarin pukijaa erityisemmin houkutelleet..
+
+.. image:: /blogimg/20160830-lohikaarme.jpg
+
+PS. Hacklabin väki ei ole muuttunut yhtään sen kieroutuneemmaksi kuin ennenkään, vaan Osmo testaili kalansilmäobjektiiviaan.
