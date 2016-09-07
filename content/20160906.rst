@@ -1,0 +1,25 @@
+Kerhoilta 6.9.: MIDI-näppiksiä
+##############################
+
+:date: 2016-09-06 21:17
+:category: kerhoilta
+:authors: Petteri Aimonen
+:summary: Tänään labilla vaihdettiin midi-koskettimiston USB-liitin, testailtiin RFID:tä ja ruuvattiin ruuvipenkki paikalleen.
+
+Miika toi mukanaan pari pientä MIDI-musiikkivärkkiä joista kummastakin oli mini-USB-liitin irronnut vieden myös kuparit piirilevyltä. Edellinen omistaja oli ollut ilmeisen innokas muusikko. Ohuella piuhalla ja paksulla epoksikerroksella saatiin uudet liittimet paikalleen.
+
+.. image:: /blogimg/20160906-midi.jpg
+
+Osmo oli tilannut netistä parilla eurolla 125 kHz-alueen RFID-lukijan ja kasan tageja. Pienen datalehtihaeskelun jälkeen selvisi että antenni pitää kytkeä moduulissa olevan kolmipinnisen liittimen kahteen reunimmaiseen karvaan, eikä suinkaan siihen kaksipinniseen liittimeen johon se suoraan sopisi.
+
+.. image:: /blogimg/20160906-rfid.jpg
+
+Mio ja Joel puolestaan ryhtyivät saattamaan yhtä labin ledivalokuutioista takaisin toimintakuntoon. Tieto näiden toiminnasta on ehkä vähän hämärtynyt, mutta nyt ainakin oli alkuperäiset tekijät säätämässä:
+
+.. image:: /blogimg/20160906-elovalo.jpg
+
+Ja myös labin uusi ruuvipenkki saatiin paikalleen ja tukevalta tuntuu:
+
+.. image:: /blogimg/20160906-ruuvipenkki.jpg
+
+
