@@ -6,7 +6,6 @@ Work on content:
 #+BEGIN_SRC
 git clone git@github.com:HacklabJKL/hacklabjkl.github.io.git
 cd hacklabjkl.github.io
-git submodule update --recursive
 pip install -r requirements.txt
 make html
 

@@ -20,5 +20,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
-#DISQUS_SITENAME = ""
+# Disqus setup by Jarkko Saltiola / jasalt
+DISQUS_SITENAME = "hacklabjkl"
+
 #GOOGLE_ANALYTICS = ""
