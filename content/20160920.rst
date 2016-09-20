@@ -1,0 +1,32 @@
+Kerhoilta 20.9.: Älytaululle uutta käyttöä
+##########################################
+
+:date: 2016-09-20 21:17
+:category: kerhoilta
+:authors: Petteri Aimonen
+:summary: Koulut alkaavat huomata, että ensimmäisen version älytaulut eivät olleetkaan pedagogisesti kovin näppäriä, joten nyt niitä löytyy halvalla kirpputorilta.
+
+Koulut alkaavat huomata, että ensimmäisen version älytaulut eivät olleetkaan pedagogisesti kovin näppäriä, joten nyt niitä löytyy halvalla kirpputorilta. Eetu oli löytänyt yhden yksilön viidellä eurolla ja toi sen labille etsimään parempaa käyttöä:
+
+.. image:: /blogimg/20160920_alytaulu.jpg
+
+Ilmeisesti virta pitäisi syöttää saman DSUB9-liittimen kautta josta tulee myös moderniin tapaan sarjaportti. Toistaiseksi tätä ei vielä saatu testattua kun sopiva liitin puuttuu.
+
+Mutta mitä tällaisella voisi tehdä? Kuulemma varsinaisessa tarkoituksessaan projektorin kanssa käytettävänä piirtotauluna ne eivät ole lainkaan käteviä. Yksi mahdollisuus olisi ihan vain purkaa taulu muovi- ja peltilevyiksi, mutta ehkä sille vielä jotain muutakin käyttöä keksitään.
+
+Mikolla on työn alla jonkinlainen arcade- tai reaktiopeliohjain. Ennen varsinaisen vanerin leikkaamista on näppärää tehdä pahviprototyyppi:
+
+.. image:: /blogimg/20160920_arcade.jpg
+
+Jouni rakentaa dvorak-näppäimistöä, johon on jo printattu kaksiosainen kotelo. Jäljellä on näppäinten piuhoitus kiinni kontrolleriin, joka näkyy sitten PC:lle tavallisena USB-näppiksenä.
+
+.. image:: /blogimg/20160920_nappis.jpg
+
+Itse korjailin omatekoisen polkupyörän lamppuni. Pyörän dynamo antaa sen verran matalaa taajuutta että sen tasailuun tarvitaan isohko kondensaattori. Superkondensaattorien balansointi oli unohtunut ensimmäisestä versiosta, joten jännite oli jakautunut epätasaisesti kahden sarjaankytketyn kondensaattorin välille ja ne olivat kärähtäneet. Vaihdon jälkeen valoa tulee komeasti:
+
+.. image:: /blogimg/20160920_pyoravalo.jpg
+
+Osmo jatkoi RFID-säätöä, erilaisija lukijoita ja kortteja on jo kasakaupalla:
+
+.. image:: /blogimg/20160920_rfid.jpg
+
