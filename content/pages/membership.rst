@@ -11,20 +11,28 @@ Hacklab Jyväskylän kerhotilan vuokra katetaan kuukausittaisista jäsenmaksuist
 
 Normaali jäsenmaksu on 10e/kk, joka oikeuttaa käyntiin kerhoilloissa ja tavaroiden säilyttämiseen Hacklabilla. Harrastetilalle on mahdollista saada myös oma avain jolla sisään pääsee koska tahansa. Avaimellisen jäsenyyden hinta on 20e/kk. 
 
-Kerhoiltoihin voi vapaasti tulla tutustumaan jos jäsenyys kiinnostaa. Varsinaiset jäsenhakemukset pyydetään lähettämään `hallitukselle <yhteystiedot.html>`_ sähköpostilla:
+Kerhoiltoihin voi vapaasti tulla tutustumaan jos jäsenyys kiinnostaa. Varsinaiset jäsenhakemukset pyydetään lähettämään `hallitukselle <yhteystiedot.html>`_ sähköpostilla tai allaolevalla lomakkeella:
 
 .. raw:: html
 
-    <span>hacklab-jkl-hallitus<span>@</span><span style="display:none;">POISTA|</span>googlegroups.com
-
-Esimerkki hakemuksesta:
-
-    Hei,
-
-    Haluaisin liittyä Hacklab Jyväskylä ry:n perusjäseneksi (10e/kk).
-    Nimeni on Matti Meikäläinen ja sähköpostiosoitteeni matti@example.com
-
-    Terveisin,
-    Matti
-
-
+    <form action="https://formspree.io/hacklab-jkl-hallitus@googlegroups.com" method="POST" class="join">
+    <input type="hidden" name="_subject" value="Jyväskylän Hacklabin jäsenhakemus" />
+    <input type="hidden" name="_next" value="http://jyvaskyla.hacklab.fi/pages/member_thanks.html" />
+    <div>
+    <label for="name">Nimi:</label>
+    <input type="text" id="name" name="name" autocomplete="name">
+    </div><div>
+    <label for="email">Sähköposti:</label>
+    <input type="emai" id="email" name="email" autocomplete="email">
+    </div><div>
+    <label for="irc">IRC-nimimerkki (jos on):</label>
+    <input type="name" name="irc" id="irc" autocomplete="nickname">
+    </div><div>
+    <input type="radio" value="normal" name="membership" id="normal" accesskey="P" checked="checked"/>
+    <label for="normal">Perusjäsenyys 10€/kk</label>
+    </div><div>
+    <input type="radio" value="key" name="membership" id="key" accesskey="A" />
+    <label for="key">Avainjäsenyys 20€/kk</label>
+    </div>
+    <input id="liity" type="submit" value="Liity jäseneksi">
+    </form> 
