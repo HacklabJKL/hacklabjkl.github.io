@@ -1,0 +1,14 @@
+Hacklab JKL esittelee toimintaansa Suomen käsityön museolla 7.10.
+#################################################################
+
+:date: 2016-10-06 21:17
+:category: tapahtuma
+:authors: Petteri Aimonen
+:summary: Olemme mukana Suomen käsityön museon Late nights -tapahtumassa.
+
+Olemme mukana Suomen käsityön museon Late nights -tapahtumassa. Paikalle on vapaa pääsy kello 18-22.
+
+`http://www.craftmuseum.fi/tiedotteet/16_late_nights_lokakuu.htm <http://www.craftmuseum.fi/tiedotteet/16_late_nights_lokakuu.htm>`_
+
+Paikalla on esillä mm. Elovalo-ledikuutio sekä jäsenten laitteistoa: mm. 3D-tulostin ja CNC-jyrsin.
+
