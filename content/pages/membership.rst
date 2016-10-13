@@ -9,7 +9,7 @@ Jäsenyys
 
 Hacklab Jyväskylän kerhotilan vuokra katetaan kuukausittaisista jäsenmaksuista. Jäsenmaksu on jaettu kahteen luokkaan.
 
-Normaali jäsenmaksu on 10e/kk, joka oikeuttaa käyntiin kerhoilloissa ja tavaroiden säilyttämiseen Hacklabilla. Harrastetilalle on mahdollista saada myös oma avain jolla sisään pääsee koska tahansa. Avaimellisen jäsenyyden hinta on 20e/kk. 
+Normaali jäsenmaksu on 10€/kk, joka oikeuttaa käyntiin kerhoilloissa ja tavaroiden säilyttämiseen Hacklabilla. Harrastetilalle on mahdollista saada myös oma avain jolla sisään pääsee koska tahansa. Avaimellisen jäsenyyden hinta on 20€/kk. 
 
 Kerhoiltoihin voi vapaasti tulla tutustumaan jos jäsenyys kiinnostaa. Varsinaiset jäsenhakemukset pyydetään lähettämään `hallitukselle <yhteystiedot.html>`_ sähköpostilla tai allaolevalla lomakkeella:
 
