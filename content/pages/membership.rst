@@ -15,18 +15,22 @@ Kerhoiltoihin voi vapaasti tulla tutustumaan jos jäsenyys kiinnostaa. Varsinais
 
 .. raw:: html
 
-    <form action="https://formspree.io/hacklab-jkl-hallitus@googlegroups.com" method="POST" class="join">
+    <form action="https://formspree.io/hacklab-jkl-hallitus@googlegroups.com" method="POST" class="join" autocomplete="on">
     <input type="hidden" name="_subject" value="Jyväskylän Hacklabin jäsenhakemus" />
     <input type="hidden" name="_next" value="http://jyvaskyla.hacklab.fi/pages/member_thanks.html" />
+    <input type="hidden" name="languages" id="language" />
     <div>
     <label for="name">Nimi:</label>
-    <input type="text" id="name" name="name" autocomplete="name">
+    <input type="text" id="name" name="name" required autocomplete="name">
     </div><div>
     <label for="email">Sähköposti:</label>
-    <input type="emai" id="email" name="email" autocomplete="email">
+    <input type="email" id="email" name="email" required autocomplete="email">
+    </div><div>
+    <label for="city">Kotikunta:</label>
+    <input type="text" id="city" name="city" required autocomplete="address-level2" value="Jyväskylä">
     </div><div>
     <label for="irc">IRC-nimimerkki (jos on):</label>
-    <input type="name" name="irc" id="irc" autocomplete="nickname">
+    <input type="text" name="irc" id="irc" autocomplete="nickname">
     </div><div>
     <input type="radio" value="normal" name="membership" id="normal" accesskey="P" checked="checked"/>
     <label for="normal">Perusjäsenyys 10€/kk</label>
@@ -36,3 +40,4 @@ Kerhoiltoihin voi vapaasti tulla tutustumaan jos jäsenyys kiinnostaa. Varsinais
     </div>
     <input id="liity" type="submit" value="Liity jäseneksi">
     </form> 
+    <script type="text/javascript">document.getElementById("language").value = navigator.languages;</script>
