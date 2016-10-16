@@ -51,47 +51,73 @@ Tilan varustus
 
     <a href="/images/kerhotila2.jpg"><img src="/images/kerhotila2.jpg" /></a>
 
-Labilla on käytettävissä työskentely- ja säilytystilaa, sekä työvälineitä elektroniikan rakenteluun ja korjaamiseen. WC on käytettävissä talon porraskäytävässä.
+Labilla on käytettävissä työskentely- ja säilytystilaa, työvälineitä elektroniikan rakenteluun sekä puun ja muiden materiaalien työstämiseen. WC on käytettävissä talon porraskäytävässä. Tilan isolla sohvalla on mukava istua pitkät koodausrupeamat ja mikroaaltouuni, jääkaappipakastin sekä kahvinkeitin takaavat, ettei nälkä yllätä. Nurkan takaa löytyy myös kepab pizzeria, sekä noin 150m päästä K-market joka on auki joka päivä.
 
 Työvälineisiin kuuluvat muunmuassa:
 
-1) Elektroniikanvälineistöä:
+Elektroniikka ja sähkö:
+==============
+
+1) Mittalaitteita:
+
+   - 2-kanavainen digitaalinen oskilloskooppi (100mhz)
+   - Analogisia oskilloskooppeja (50-100mhz)
+   - Funktiogeneraattoreita
+   - Oikosulkusuojattuja jännitelähteitä (myös säädettäviä)
+   - Yleismittareita
+
+2) Työkaluja:
 
    - Lämpötilasäädettävä juotin (tuttavallisemmin "kolvi")
+   - Tinaimupistooli komponenttien irroittamiseen
    - Kuumailmajuotin
-   - Oikosulkusuojattuja jännitelähteitä
+   - Leikkureita, kuorintapihtejä, ruuvimeisseleitä jne.
 
-2) Mittalaitteita:
+3) Materiaalia:
 
-   - Digitaalinen oskilloskooppi
-   - Funktiogeneraattori
-   - Työntömittoja, rullamitta
+   - Tinaa ja juoksutinta (flux)
+   - Ruuveja, pultteja
+   - Kytkentäjohtoa sekä liittimiä omien kaapeleiden tekemiseen.
+   - Paljon mittajohtoja sekä sekalainen, mutta kattava määrä elektroniikan peruskomponentteja.
+   - Sähköromua, jota saa vapaasti purkaa ja hyödyntää.
 
-3) Työkaluja:
+Puun- ja metallintyöstö:
+==============
+1) Koneita:
 
-   - Pihtejä, kiintoavaimia, ruuvimeisseleitä jne.
-   - Käsisaha, vasara, puristimia
-   - Iskuporakone
-   - Vannesaha
    - Pylväsporakone
-   - Paineilmakompressori
+   - Vannesaha
+
+2) Käsityökaluja:
+
+   - Viilapenkki
+   - Akkuruuvinväännin
+   - Iskuporakone
+   - Vasara
+   - Puristimia
+   - Käsi- ja jiirisaha
+   - Metallisaha
+   - Pihtejä, kiintoavaimia, ruuvimeisseleitä jne.
+   
+3) Mittalaitteita:
+
+   - Työntömitta, rullamitta, metalliviivoittimia
+   - Suorakulmia
+   - Kulmamittoja
+   - Vatupassi
    
 4) Suojalaitteita:
 
-   - Suojaerotusmuuntaja
    - Suojalaseja
    - Kuulosuojaimet
    - Käsineitä
    - Hengityssuojain
 
-5) Materiaalia:
+Muita materiaaleja:
+==============
 
    - Teippiä, tinaa, rautalankaa ja muita kiinnitystarpeita
-   - Ruuveja, pultteja
    - Epoksiliimaa, pikaliimaa, silikonia
-   - Kytkentäjohtoa
-   - Erilaisia levyjä, mm. akryylia ja polystyreenia
-   - Joitakin komponentteja, kuten yleisimmät elektrolyyttikondensaattorit
-   - Sähköromua, jota saa vapaasti purkaa ja hyödyntää.
+   - Erilaisia yleiskemikaaleja (Isopropanoli, Asetoni, Tärpätti)
 
-
+**Ja vaikka mitä muuta mitä tässä listassa ei ole erikseen mainittu!**
