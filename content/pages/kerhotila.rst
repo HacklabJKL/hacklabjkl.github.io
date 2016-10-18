@@ -56,7 +56,7 @@ Labilla on käytettävissä työskentely- ja säilytystilaa, työvälineitä ele
 Työvälineisiin kuuluvat muunmuassa:
 
 Elektroniikka ja sähkö:
-==============
+=======================
 
 1) Mittalaitteita:
 
@@ -82,7 +82,7 @@ Elektroniikka ja sähkö:
    - Sähköromua, jota saa vapaasti purkaa ja hyödyntää.
 
 Puun- ja metallintyöstö:
-==============
+========================
 1) Koneita:
 
    - Pylväsporakone
@@ -114,10 +114,10 @@ Puun- ja metallintyöstö:
    - Hengityssuojain
 
 Muita materiaaleja:
-==============
+===================
 
-   - Teippiä, tinaa, rautalankaa ja muita kiinnitystarpeita
-   - Epoksiliimaa, pikaliimaa, silikonia
-   - Erilaisia yleiskemikaaleja (Isopropanoli, Asetoni, Tärpätti)
+- Teippiä, tinaa, rautalankaa ja muita kiinnitystarpeita
+- Epoksiliimaa, pikaliimaa, silikonia
+- Erilaisia yleiskemikaaleja (isopropanoli, asetoni, tärpätti)
 
 **Ja vaikka mitä muuta mitä tässä listassa ei ole erikseen mainittu!**
