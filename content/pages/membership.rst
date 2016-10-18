@@ -16,7 +16,7 @@ Kerhoiltoihin voi vapaasti tulla tutustumaan jos jäsenyys kiinnostaa. Varsinais
 .. raw:: html
 
     <form action="https://formspree.io/hacklab-jkl-hallitus@googlegroups.com" method="POST" class="join" autocomplete="on">
-    <input type="hidden" name="_subject" value="Jyväskylän Hacklabin jäsenhakemus" />
+    <input type="hidden" id="subject" name="_subject" value="Jyväskylän Hacklabin jäsenhakemus" />
     <input type="hidden" name="_next" value="http://jyvaskyla.hacklab.fi/pages/member_thanks.html" />
     <input type="hidden" name="languages" id="language" />
     <div>
@@ -40,4 +40,10 @@ Kerhoiltoihin voi vapaasti tulla tutustumaan jos jäsenyys kiinnostaa. Varsinais
     </div>
     <input id="liity" type="submit" value="Liity jäseneksi">
     </form> 
-    <script type="text/javascript">document.getElementById("language").value = navigator.languages;</script>
+    <script type="text/javascript">
+        document.getElementById("language").value = navigator.languages;
+        document.getElementById("name").onchange = function() {
+            document.getElementById("subject").value = "Jyväskylän Hacklabin jäsenhakemus / "
+                                                        + document.getElementById("name").value;
+        }
+    </script>
