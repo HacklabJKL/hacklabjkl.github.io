@@ -55,7 +55,7 @@
 <p>Normaali jäsenmaksu on 10€/kk, joka oikeuttaa käyntiin kerhoilloissa ja tavaroiden säilyttämiseen Hacklabilla. Harrastetilalle on mahdollista saada myös oma avain jolla sisään pääsee koska tahansa. Avaimellisen jäsenyyden hinta on 20€/kk.</p>
 <p>Kerhoiltoihin voi vapaasti tulla tutustumaan jos jäsenyys kiinnostaa. Varsinaiset jäsenhakemukset pyydetään lähettämään <a class="reference external" href="yhteystiedot.html">hallitukselle</a> sähköpostilla tai allaolevalla lomakkeella:</p>
 <form action="https://formspree.io/hacklab-jkl-hallitus@googlegroups.com" method="POST" class="join" autocomplete="on">
-<input type="hidden" name="_subject" value="Jyväskylän Hacklabin jäsenhakemus" />
+<input type="hidden" id="subject" name="_subject" value="Jyväskylän Hacklabin jäsenhakemus" />
 <input type="hidden" name="_next" value="http://jyvaskyla.hacklab.fi/pages/member_thanks.html" />
 <input type="hidden" name="languages" id="language" />
 <div>
@@ -79,7 +79,13 @@
 </div>
 <input id="liity" type="submit" value="Liity jäseneksi">
 </form>
-<script type="text/javascript">document.getElementById("language").value = navigator.languages;</script>
+<script type="text/javascript">
+    document.getElementById("language").value = navigator.languages;
+    document.getElementById("name").onchange = function() {
+        document.getElementById("subject").value = "Jyväskylän Hacklabin jäsenhakemus / "
+                                                    + document.getElementById("name").value;
+    }
+</script>
   </div>
 </article>
 
