@@ -13,9 +13,16 @@ Hacklab Jyväskylän kerhotilat ovat Keskikatu 18A:n pommisuojassa:
    :alt: Sijaintiohjeistus
    :align: center
 
-Talon pihassa ei ole pysäköintitilaa Hacklabilaisille, mutta keskikadun varressa on pysäköintipaikkoja.
-Sisään pääsee oikeanpuoleisesta ovesta ja hissillä kellarikerrokseen.
-Jos on vaikeuksia löytää paikalle tai ulko-ovi on mennyt lukkoon, kannattaa soittaa kerhotilan puhelimeen 046 937 8420.
+Talon pihassa ei ole pysäköintitilaa Hacklabilaisille, mutta lähiseudulla on pysäköintipaikkoja. Yleensä parkkitilaa on hyvin, mutta jos Hippoksen jäähallilla on peli käynnissä niin tilaa on lähinnä Voionmaankadun pohjoispuolella:
+
+.. image:: /images/pysakointi.png
+   :target: /images/pysakointi.png
+   :alt: Kartta pysäköintipaikoista
+   :align: center
+
+Sisäänkäynti on sisäpihan puolelta, oven vieressä on Hacklabin kyltti ja ovikello. Usein oikeanpuoleinen ovi on auki lukosta, ja sitä kautta pääsee hissillä kellariin.
+
+Jos on vaikeuksia löytää paikalle, kannattaa soittaa kerhotilan puhelimeen 046 937 8420.
 
 Kerhotilan säännöt
 ==================
@@ -60,8 +67,8 @@ Elektroniikka ja sähkö:
 
 1) Mittalaitteita:
 
-   - 2-kanavainen digitaalinen oskilloskooppi (100mhz)
-   - Analogisia oskilloskooppeja (50-100mhz)
+   - 2-kanavainen digitaalinen oskilloskooppi (100 MHz)
+   - Analogisia oskilloskooppeja (50-100 MHz)
    - Funktiogeneraattoreita
    - Oikosulkusuojattuja jännitelähteitä (myös säädettäviä)
    - Yleismittareita
