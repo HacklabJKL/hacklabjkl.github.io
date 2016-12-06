@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>HacklabJKL</title><link href="http://jyvaskyla.hacklab.fi/" rel="alternate"></link><link href="http://jyvaskyla.hacklab.fi/feeds/kerhoilta.atom.xml" rel="self"></link><id>http://jyvaskyla.hacklab.fi/</id><updated>2016-09-20T21:17:00+03:00</updated><entry><title>Kerhoilta 20.9.: Älytaululle uutta käyttöä</title><link href="http://jyvaskyla.hacklab.fi/kerhoilta-209-alytaululle-uutta-kayttoa.html" rel="alternate"></link><updated>2016-09-20T21:17:00+03:00</updated><author><name>Petteri Aimonen</name></author><id>tag:jyvaskyla.hacklab.fi,2016-09-20:kerhoilta-209-alytaululle-uutta-kayttoa.html</id><summary type="html">&lt;p&gt;Koulut alkaavat huomata, että ensimmäisen version älytaulut eivät olleetkaan pedagogisesti kovin näppäriä, joten nyt niitä löytyy halvalla kirpputorilta. Eetu oli löytänyt yhden yksilön viidellä eurolla ja toi sen labille etsimään parempaa käyttöä:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>HacklabJKL</title><link href="http://jyvaskyla.hacklab.fi/" rel="alternate"></link><link href="http://jyvaskyla.hacklab.fi/feeds/kerhoilta.atom.xml" rel="self"></link><id>http://jyvaskyla.hacklab.fi/</id><updated>2016-12-06T21:17:00+02:00</updated><entry><title>Kuvia syksyn kerhoilloista</title><link href="http://jyvaskyla.hacklab.fi/kuvia-syksyn-kerhoilloista.html" rel="alternate"></link><updated>2016-12-06T21:17:00+02:00</updated><author><name>Petteri Aimonen</name></author><id>tag:jyvaskyla.hacklab.fi,2016-12-06:kuvia-syksyn-kerhoilloista.html</id><summary type="html">&lt;p&gt;Syksyn mittaan Hacklabilla on puuhattu monenlaista.&lt;/p&gt;
+&lt;p&gt;Ensimmäisten pakkasten myötä oli tarpeen lisäeristää varauloskäynnin luukkua, sitä kun ei saa kokonaan kiinni antennijohtojen vuoksi. Onneksi pala Finnfoamia kulkee näppärästi vaikka polkupyörällä:&lt;/p&gt;
+&lt;img alt="" src="/blogimg/201610_finnfoam1.jpg" /&gt;
+&lt;img alt="" src="/blogimg/201610_finnfoam2.jpg" /&gt;
+&lt;p&gt;Kävimme myös Suomen käsityön museon Late Nights -tapahtumassa esittelemässä hacklabia. Paikalla olikin runsaasti vaihto-opiskelijoita jotka olivat erittäin kiinnostuneita laitteista, vaikkeivat ehkä suoraan olleetkaan hacklabin tyypillistä kohdekuntaa. Tällä tavalla ainakin levitetään tietoa hacklab-toiminnan olemassaolosta, jos nyt mitään jäsenryntäystä ei olekaan odotettavissa. Kuvassa Osmo esittelee 3D-tulostettua kappaletta, yleisö on rajattu yksityisyyssyistä pois:&lt;/p&gt;
+&lt;img alt="" src="/blogimg/201610_museo.jpg" /&gt;
+&lt;p&gt;Mio rakensi puutavarasta ja parista kalustepyörästä liikuteltavan telineen mittajohdoille:&lt;/p&gt;
+&lt;img alt="" src="/blogimg/201610_johtoteline.jpg" /&gt;
+&lt;p&gt;Eetu vaihtamassa näytön virtalähdekortin kondensaattoreita:&lt;/p&gt;
+&lt;img alt="" src="/blogimg/201610_konkkia.jpg" /&gt;
+&lt;p&gt;Joni asentaa näytönohjainta jämäosista koottuun PC:hen. Pieniä mahtumisongelmia oli epästandardista kotelosta johtuen oli havaittavissa ja niitä ratkottiin rautasahalla.&lt;/p&gt;
+&lt;img alt="" src="/blogimg/201610_pc.jpg" /&gt;
+&lt;p&gt;Henrikin tulostinprojekti on loppusuoralla - ehkä jo kohta päästään kokeilemaan ensimmäisiä tulosteita?&lt;/p&gt;
+&lt;img alt="" src="/blogimg/201610_printteri.jpg" /&gt;
+&lt;p&gt;Marraskuun tuiskuista huolimatta Vili, Miika ja Joel saivat radiolinkin antennit asennettua katolle. Yhteys Laajavuoren torniin toimii jo, mutta radioamatöörien tilalla sekä internet-linkin puolella tarvitaan vielä asennustöitä.&lt;/p&gt;
+&lt;img alt="" src="/blogimg/201611_antennit1.jpg" /&gt;
+&lt;img alt="" src="/blogimg/201611_antennit2.jpg" /&gt;
+&lt;p&gt;Sandrolla on käynnissä mielenkiintoinen CNC-jyrsinprojekti. Raiteiksi on tulossa 50x50 mm teräsputkea ja kelkat on rakennettu itse skeittilaudan pyöristä. Suhteellisen yksinkertaisesta rakenteesta huolimatta ainakin kelkkojen tukevuus on jo hyvin lupaavalla tasolla.&lt;/p&gt;
+&lt;img alt="" src="/blogimg/201611_cnckelkka.jpg" /&gt;
+&lt;p&gt;Ja loppukevennyksenä, Eetu oli saanut käsiinsä aidot Valtion Rautateiden virtuaalitodellisuuslasit. Näillä sopii sitten katsella maisemia jos juna sattuu jämähtämään asemalle; liikkuvaan junaan ei välttämättä youtube vieläkään kanna.&lt;/p&gt;
+&lt;img alt="" src="/blogimg/201611_vr1.jpg" /&gt;
+&lt;img alt="" src="/blogimg/201611_vr2.jpg" /&gt;
+</summary></entry><entry><title>Kerhoilta 20.9.: Älytaululle uutta käyttöä</title><link href="http://jyvaskyla.hacklab.fi/kerhoilta-209-alytaululle-uutta-kayttoa.html" rel="alternate"></link><updated>2016-09-20T21:17:00+03:00</updated><author><name>Petteri Aimonen</name></author><id>tag:jyvaskyla.hacklab.fi,2016-09-20:kerhoilta-209-alytaululle-uutta-kayttoa.html</id><summary type="html">&lt;p&gt;Koulut alkaavat huomata, että ensimmäisen version älytaulut eivät olleetkaan pedagogisesti kovin näppäriä, joten nyt niitä löytyy halvalla kirpputorilta. Eetu oli löytänyt yhden yksilön viidellä eurolla ja toi sen labille etsimään parempaa käyttöä:&lt;/p&gt;
 &lt;img alt="" src="/blogimg/20160920_alytaulu.jpg" /&gt;
 &lt;p&gt;Ilmeisesti virta pitäisi syöttää saman DSUB9-liittimen kautta josta tulee myös moderniin tapaan sarjaportti. Toistaiseksi tätä ei vielä saatu testattua kun sopiva liitin puuttuu.&lt;/p&gt;
 &lt;p&gt;Mutta mitä tällaisella voisi tehdä? Kuulemma varsinaisessa tarkoituksessaan projektorin kanssa käytettävänä piirtotauluna ne eivät ole lainkaan käteviä. Yksi mahdollisuus olisi ihan vain purkaa taulu muovi- ja peltilevyiksi, mutta ehkä sille vielä jotain muutakin käyttöä keksitään.&lt;/p&gt;
