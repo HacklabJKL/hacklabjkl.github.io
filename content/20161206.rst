@@ -1,0 +1,53 @@
+Kuvia syksyn kerhoilloista
+##########################
+
+:date: 2016-12-06 21:17
+:category: kerhoilta
+:authors: Petteri Aimonen
+:summary: Syksyn mittaan on puuhattu monenlaista, mm. antenniasennuksia.
+
+Syksyn mittaan Hacklabilla on puuhattu monenlaista.
+
+Ensimmäisten pakkasten myötä oli tarpeen lisäeristää varauloskäynnin luukkua, sitä kun ei saa kokonaan kiinni antennijohtojen vuoksi. Onneksi pala Finnfoamia kulkee näppärästi vaikka polkupyörällä:
+
+.. image:: /blogimg/201610_finnfoam1.jpg
+
+.. image:: /blogimg/201610_finnfoam2.jpg
+
+Kävimme myös Suomen käsityön museon Late Nights -tapahtumassa esittelemässä hacklabia. Paikalla olikin runsaasti vaihto-opiskelijoita jotka olivat erittäin kiinnostuneita laitteista, vaikkeivat ehkä suoraan olleetkaan hacklabin tyypillistä kohdekuntaa. Tällä tavalla ainakin levitetään tietoa hacklab-toiminnan olemassaolosta, jos nyt mitään jäsenryntäystä ei olekaan odotettavissa. Kuvassa Osmo esittelee 3D-tulostettua kappaletta, yleisö on rajattu yksityisyyssyistä pois:
+
+.. image:: /blogimg/201610_museo.jpg
+
+Mio rakensi puutavarasta ja parista kalustepyörästä liikuteltavan telineen mittajohdoille:
+
+.. image:: /blogimg/201610_johtoteline.jpg
+
+Eetu vaihtamassa näytön virtalähdekortin kondensaattoreita:
+
+.. image:: /blogimg/201610_konkkia.jpg
+
+Joni asentaa näytönohjainta jämäosista koottuun PC:hen. Pieniä mahtumisongelmia oli epästandardista kotelosta johtuen oli havaittavissa ja niitä ratkottiin rautasahalla.
+
+.. image:: /blogimg/201610_pc.jpg
+
+Henrikin tulostinprojekti on loppusuoralla - ehkä jo kohta päästään kokeilemaan ensimmäisiä tulosteita?
+
+.. image:: /blogimg/201610_printteri.jpg
+
+Marraskuun tuiskuista huolimatta Vili, Miika ja Joel saivat radiolinkin antennit asennettua katolle. Yhteys Laajavuoren torniin toimii jo, mutta radioamatöörien tilalla sekä internet-linkin puolella tarvitaan vielä asennustöitä.
+
+.. image:: /blogimg/201611_antennit1.jpg
+
+.. image:: /blogimg/201611_antennit2.jpg
+
+Sandrolla on käynnissä mielenkiintoinen CNC-jyrsinprojekti. Raiteiksi on tulossa 50x50 mm teräsputkea ja kelkat on rakennettu itse skeittilaudan pyöristä. Suhteellisen yksinkertaisesta rakenteesta huolimatta ainakin kelkkojen tukevuus on jo hyvin lupaavalla tasolla.
+
+.. image:: /blogimg/201611_cnckelkka.jpg
+
+Ja loppukevennyksenä, Eetu oli saanut käsiinsä aidot Valtion Rautateiden virtuaalitodellisuuslasit. Näillä sopii sitten katsella maisemia jos juna sattuu jämähtämään asemalle; liikkuvaan junaan ei välttämättä youtube vieläkään kanna.
+
+.. image:: /blogimg/201611_vr1.jpg
+
+.. image:: /blogimg/201611_vr2.jpg
+
+
