@@ -53,3 +53,11 @@ Rahastonhoitaja:     Jukka Kinnunen
 SoMe-yhteyshenkilö:  Mio Taalas
 Hallituksen jäsen:   Juhana Suhonen
 ===================  ================
+
+Muut toimihenkilöt
+
+===================  ================
+Yritysyhteyshenkilö  Henrik Korhonen
+===================  ================
+
+
