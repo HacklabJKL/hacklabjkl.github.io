@@ -1,0 +1,32 @@
+Kerhoilta 21.2.: CNC-projekti
+#############################
+
+:date: 2017-02-21 21:17
+:category: kerhoilta
+:authors: Petteri Aimonen
+:summary: Labilla rakentuu ison puoleinen CNC-jyrsin, pitkälti rautakauppatavarasta ja ilman liiallista ennakkosuunnittelua. Tuloksia odotellaan mutta ainakin kehitys on ollut lupaavaa.
+
+Blogin kirjoittaja on tempautunut todenteolla mukaan Sandron CNC-jyrsinprojektiin, ja siten toisten projektien seuraaminen on jäänyt vähän sivuhuomiolle. Mutta eiköhän tästä CNC:stäkin mielenkiintoista kerrottavaa riitä. Laite on varsin kookas, työstöalaksi on tulossa n. 90x80x20cm:
+
+.. image:: /blogimg/20170221_yleiskuva.jpg
+
+Tällä hetkellä jyrsinprojekti on siinä vaiheessa, että kaikkien kolmen akselin laakeroinnit ovat paikallaan ja niitä pystyy liikuttelemaan. Sen sijaan akselit moottoreihin liittävistä trapetsiruuveista paikallaan on vasta yksi - valmiissa laitteessa tulee niitä olemaan 6 kappaletta, kullekin akselille 2 tasapuolisen vedon aikaansaamiseksi. Moottoreita ei ole vielä ensimmäistäkään ja elektroniikka loistaa poissaolollaan, joten menee vielä tovi ennen kuin tällä jyrsimään pääsee.
+
+Koko projektin suoritustapa on ollut mukavaa vaihtelua perinteiselle pilkuntarkalle suunnittelulle. Päätavoitteeksi otettiin oppia CNC:n rakentelusta, ja suunnitelmia on tehty sitä mukaa kuin projekti on edennyt. Tietokoneen ja CAD-ohjelmien ääressä ei ole tarvinnut istua, vaan sitäkin enemmän olemme päässeet kiusaamaan muiden labilaisten korvia rautasahan rouskeella ja porakoneen surinalla.
+
+Koko homman lähtökohtana oli Sandron netistä löytämä rullaluistinpyöriin perustuva kelkkadesign:
+
+.. image:: /blogimg/20170221_kelkka.jpg
+
+Kelkat liukuvat 50x50mm teräsneliöputkea pitkin. Materiaalit on hommattu pitkälti paikallisesta Motonetista tai eBaysta, mistä vain halvimmalla saa. Osa kiinalaisista "10 kpl 3 eurolla" laakereista on vähän rouheita, mutta toistaiseksi se ei näytä haittaavan juurikaan kelkkojen liikettä.
+
+Viimeisimpänä paikalleen saatiin Z-akseli, joka liikkuu neljän 12 mm teräsakselin varassa. Jyrsin Z-akselin päätylevyt omalla tehdastekoisella CNC3020-jyrsimelläni, vaikka tämmöinen tarkkuusosien käyttö vähän projektin filosofiaa vastaan sotiikin. Käytännössä nuo olisi varmaan kyllä saanut yhtä hyvin tehtyä myös käsipelilläkin, mutta labin puuntyöstövälineistö on hieman rajallinen vapaamuotoisten aukotusten tekemisen suhteen.
+
+.. image:: /blogimg/20170221_zakseli.jpg
+
+Sekä Z-akseli että kelkat kaipaavat vielä lisää tukilevyjä. Sandro onkin näitä alkanut jo työstää, mutta jo koottujen kelkkojen purkamisessa, sovittamisessa ja uudelleenkokoamisessa onkin yllättävän paljon työtä. Toinen työläs osuus on trapetsiruuvien päiden viimeistely. Jotta näihin saa näppärästi moottorin kiinni, täytyy 12 mm trapetsiruuvin pääty kaventaa 8 mm paksuiseksi. Tämä onnistuu vaikkapa käsin viilalla, mutta aikaa siinä menee:
+
+.. image:: /blogimg/20170221_trapetsiruuvi.jpg
+
+Seuraavaksi on tarkoitus alkaa hieman miettiä elektroniikkapuolta, sillä välin kun odotellaan kiinasta lisää osia. Itselläni on joitakin ylijääneitä stepperiohjaimia, joilla päässee hyvään alkuun. Myöhemmin sitten voidaan harkita päivittämistä servoihin, mikä voisi tämän kokoisessa koneessa olla paikallaan.
+
