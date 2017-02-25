@@ -14,7 +14,7 @@ Tällä hetkellä jyrsinprojekti on siinä vaiheessa, että kaikkien kolmen akse
 
 Koko projektin suoritustapa on ollut mukavaa vaihtelua perinteiselle pilkuntarkalle suunnittelulle. Päätavoitteeksi otettiin oppia CNC:n rakentelusta, ja suunnitelmia on tehty sitä mukaa kuin projekti on edennyt. Tietokoneen ja CAD-ohjelmien ääressä ei ole tarvinnut istua, vaan sitäkin enemmän olemme päässeet kiusaamaan muiden labilaisten korvia rautasahan rouskeella ja porakoneen surinalla.
 
-Koko homman lähtökohtana oli Sandron netistä löytämä rullaluistinpyöriin perustuva kelkkadesign:
+Koko homman lähtökohtana oli Sandron netistä löytämä rullalaudan pyöriin perustuva kelkkadesign:
 
 .. image:: /blogimg/20170221_kelkka.jpg
 
