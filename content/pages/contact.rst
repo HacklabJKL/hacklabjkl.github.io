@@ -46,18 +46,14 @@ Hallitukseen saa yhteyden sähköpostitse:
 
 Hallituksen jäsenet:
 
-===================  ================
-Puheenjohtaja:       Petteri Aimonen
-Varapuheenjohtaja:   Osmo Paananen
-Rahastonhoitaja:     Jukka Kinnunen
+===================  ======================
+Puheenjohtaja:       Sakari Kapanen
+Varapuheenjohtaja:   Joel Lehtonen
+Rahastonhoitaja:     Henrik Korhonen
 SoMe-yhteyshenkilö:  Mio Taalas
 Hallituksen jäsen:   Juhana Suhonen
-===================  ================
-
-Muut toimihenkilöt
-
-===================  ================
-Yritysyhteyshenkilö  Henrik Korhonen
-===================  ================
+Hallituksen jäsen:   Mikko Mäntylä
+Hallituksen jäsen:   Sandro von Brandenburg
+===================  ======================
 
 
