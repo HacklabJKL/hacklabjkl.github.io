@@ -40,22 +40,43 @@ Kerhoiltoihin voi vapaasti tulla tutustumaan jos jäsenyys kiinnostaa. Varsinais
     </div><div>
     <label class="leftlabel" for="irc">IRC-nimimerkki (jos on):</label>
     <input type="text" name="irc" id="irc" autocomplete="nickname">
-    </div><div>
-    <input type="radio" value="discount" name="membership" id="discount" accesskey="L" />
-    <label for="discount">Alennettu jäsenyys 5€/kk</label>
-    </div><div>
-    <input type="radio" value="normal" name="membership" id="normal" accesskey="P" checked="checked"/>
-    <label for="normal">Perusjäsenyys 10€/kk</label>
-    </div><div>
-    <input type="radio" value="key" name="membership" id="key" accesskey="A" />
-    <label for="key">Avainjäsenyys 20€/kk</label>
+    </div>
+    <div class="control-container">
+        <div>
+        <input type="radio" value="discount" name="membership" id="discount" accesskey="L" />
+        <label for="discount">Alennettu jäsenyys 5€/kk</label>
+        </div>
+        <div>
+        <input type="radio" value="normal" name="membership" id="normal" accesskey="P" checked="checked"/>
+        <label for="normal">Perusjäsenyys 10€/kk</label>
+        </div>
+        <div>
+        <input type="radio" value="key" name="membership" id="key" accesskey="A" />
+        <label for="key">Avainjäsenyys 20€/kk</label>
+        </div>
+    </div>
+    <div class="control-container" id="discount-motivation-div">
+        <label for="discount-motivation" class="block">Perustelu alennetun jäsenmaksun
+        hakemiselle:</label>
+        <textarea id="discount-motivation" name="discount-motivation" maxlength="1000" cols="65" rows="10">
+        </textarea>
     </div>
     <input id="liity" type="submit" value="Liity jäseneksi">
-    </form> 
+    </form>
     <script type="text/javascript">
         document.getElementById("language").value = navigator.languages;
         document.getElementById("name").onchange = function() {
             document.getElementById("subject").value = "Jyväskylän Hacklabin jäsenhakemus / "
                                                         + document.getElementById("name").value;
         }
+
+        function showHideDiscountMotivation() {
+            document.getElementById("discount-motivation-div").style.display =
+                document.getElementById("discount").checked ? "block" : "none";
+        }
+        showHideDiscountMotivation();
+
+        document.getElementsByName("membership").forEach(function(elem) {
+            elem.addEventListener("change", showHideDiscountMotivation);
+        });
     </script>
