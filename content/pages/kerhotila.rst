@@ -7,6 +7,10 @@ Kerhotila
 :authors: Jarkko Saltiola
 :summary: Hacklab Jyväskylän kerhotilat ovat Keskikatu 18A:n pommisuojassa. Kaikille avoimet kerhoillat tiistaisin kello 18 alkaen.
 
+Kerhoillat pääsääntöisesti joka tiistai klo 18–21 ja lauantaisin klo
+14–17. Kerhoilta jatkuu niin pitkään kuin avaimellisia jäseniä on
+paikalla. Ja aika usein jatkuukin. Kerhoilta-aikataulua voi tiedustella Freenoden IRC-kanavalta #hacklab.jkl tai _Telegram-ryhmästämme: https://t.me/HacklabJKL .
+	  
 Hacklab Jyväskylän kerhotilat ovat Keskikatu 18A:n pommisuojassa:
 
 .. image:: /images/hacklabkartta.jpg
