@@ -58,8 +58,7 @@ Kerhoiltoihin voi vapaasti tulla tutustumaan jos jäsenyys kiinnostaa. Varsinais
     <div class="control-container" id="discount-motivation-div">
         <label for="discount-motivation" class="block">Perustelu alennetun jäsenmaksun
         hakemiselle:</label>
-        <textarea id="discount-motivation" name="discount-motivation" maxlength="1000" cols="65" rows="10">
-        </textarea>
+        <textarea id="discount-motivation" name="discount-motivation" maxlength="1000" cols="65" rows="10"></textarea>
     </div>
     <input id="liity" type="submit" value="Liity jäseneksi">
     </form>
