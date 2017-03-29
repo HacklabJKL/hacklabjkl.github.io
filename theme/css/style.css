@@ -185,6 +185,7 @@ main article table td {
   line-height: 20px;
   vertical-align: top;
   border-top: 1px solid #ddd;
+  white-space: nowrap;
 }
 main footer {
   padding-top: 4px;
@@ -325,14 +326,4 @@ ul.social a.sc-envelope-o {
   main article ul.list li {
     padding: 2px;
   }
-}
-.leftlabel {
-    width: 11em;
-}
-.join label {
-    display: inline-block;
-}
-#liity {
-    display: block;
-    margin-top: 1em;
 }
