@@ -42,18 +42,23 @@ Hallitukseen saa yhteyden sähköpostitse:
 
 .. raw:: html
 
-    <span>hacklab-jkl-hallitus<span>@</span><span style="display:none;">POISTA|</span>googlegroups.com
+    <span>hallitus<span>@</span><span style="display:none;">POISTA|</span>jkl.hacklab.fi
 
 Hallituksen jäsenet:
 
-===================  ======================
-Puheenjohtaja:       Sakari Kapanen
-Varapuheenjohtaja:   Joel Lehtonen
-Rahastonhoitaja:     Henrik Korhonen
-SoMe-yhteyshenkilö:  Mio Taalas
-Hallituksen jäsen:   Juhana Suhonen
-Hallituksen jäsen:   Mikko Mäntylä
-Hallituksen jäsen:   Sandro von Brandenburg
-===================  ======================
+========================= ======================
+Puheenjohtaja:            Sakari Kapanen
+Varapuheenjohtaja:        Joel Lehtonen
+Rahastonhoitaja/sihteeri: Henrik Korhonen
+Tilavastaava:             Mio Taalas
+Tiedottaja:               Juhana Suhonen
+Webmaster:                Sandro von Brandenburg
+Hallituksen jäsen:        Mikko Mäntylä
+========================= ======================
 
+Kaikilla hallituslaisilla on sähköpostiosoitteet muotoa
+
+.. raw:: html
+
+    <span>etunimi.sukunimi<span>@</span><span style="display:none;">POISTA|</span>jkl.hacklab.fi
 
