@@ -327,3 +327,22 @@ ul.social a.sc-envelope-o {
     padding: 2px;
   }
 }
+.leftlabel {
+  width: 11em;
+}
+.join label {
+  display: inline-block;
+}
+.join label.block {
+  display: block;
+}
+#liity {
+  display: block;
+  margin-top: 1em;
+}
+.control-container {
+  margin-top: 1em;
+}
+#discount-motivation-div {
+  display: none;
+}
