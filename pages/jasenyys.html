@@ -52,24 +52,35 @@
   </header>
   <div>
     <p>Hacklab Jyväskylän kerhotilan vuokra katetaan kuukausittaisista jäsenmaksuista. Jäsenmaksu on jaettu kahteen luokkaan.</p>
-<p>Normaali jäsenmaksu on 10€/kk, joka oikeuttaa käyntiin kerhoilloissa ja tavaroiden säilyttämiseen Hacklabilla. Harrastetilalle on mahdollista saada myös oma avain jolla sisään pääsee koska tahansa. Avaimellisen jäsenyyden hinta on 20€/kk.</p>
+<p>Normaali jäsenmaksu on 10€/kk, joka oikeuttaa käyntiin kerhoilloissa
+ja tavaroiden säilyttämiseen Hacklabilla. Harrastetilalle on
+mahdollista saada myös oma avain jolla sisään pääsee koska
+tahansa. Avaimellisen jäsenyyden hinta on 20€/kk.</p>
+<p>Voit hakea myös alennettua jäsenmaksua, jos taloudellinen tilanteesi
+on heikko. Tällöin hinta on 5€/kk ensimmäisen 12 kuukauden ajan, jonka
+jälkeen hinta on 10€/kk. Alennettu jäsenmaksuluokka oikeuttaa samoihin
+etuihin kuin normaali jäsenyys. Hallituksen jäsenvastaava pyytää
+tarvittaessa perustelut alennukselle.</p>
 <p>Kerhoiltoihin voi vapaasti tulla tutustumaan jos jäsenyys kiinnostaa. Varsinaiset jäsenhakemukset pyydetään lähettämään <a class="reference external" href="yhteystiedot.html">hallitukselle</a> sähköpostilla tai allaolevalla lomakkeella:</p>
 <form action="https://formspree.io/hacklab-jkl-hallitus@googlegroups.com" method="POST" class="join" autocomplete="on">
 <input type="hidden" id="subject" name="_subject" value="Jyväskylän Hacklabin jäsenhakemus" />
 <input type="hidden" name="_next" value="http://jyvaskyla.hacklab.fi/pages/member_thanks.html" />
 <input type="hidden" name="languages" id="language" />
 <div>
-<label for="name">Nimi:</label>
+<label class="leftlabel" for="name">Nimi:</label>
 <input type="text" id="name" name="name" required autocomplete="name">
 </div><div>
-<label for="email">Sähköposti:</label>
+<label class="leftlabel" for="email">Sähköposti:</label>
 <input type="email" id="email" name="email" required autocomplete="email">
 </div><div>
-<label for="city">Kotikunta:</label>
+<label class="leftlabel" for="city">Kotikunta:</label>
 <input type="text" id="city" name="city" required autocomplete="address-level2" value="Jyväskylä">
 </div><div>
 <label for="irc">IRC-nimimerkki (jos on):</label>
 <input type="text" name="irc" id="irc" autocomplete="nickname">
+</div><div>
+<input type="radio" value="discount" name="membership" id="discount" accesskey="L" />
+<label for="discount">Alennettu jäsenyys 5€/kk (voimassa vuoden)</label>
 </div><div>
 <input type="radio" value="normal" name="membership" id="normal" accesskey="P" checked="checked"/>
 <label for="normal">Perusjäsenyys 10€/kk</label>
