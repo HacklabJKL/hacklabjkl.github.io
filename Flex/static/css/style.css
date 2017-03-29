@@ -326,8 +326,10 @@ ul.social a.sc-envelope-o {
     padding: 2px;
   }
 }
-.join label {
+.leftlabel {
     width: 11em;
+}
+.join label {
     display: inline-block;
 }
 #liity {
