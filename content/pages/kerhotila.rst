@@ -9,7 +9,7 @@ Kerhotila
 
 Kerhoillat pääsääntöisesti joka tiistai klo 18–21 ja lauantaisin klo
 14–17. Kerhoilta jatkuu niin pitkään kuin avaimellisia jäseniä on
-paikalla. Ja aika usein jatkuukin. Kerhoilta-aikataulua voi tiedustella Freenoden IRC-kanavalta #hacklab.jkl tai _Telegram-ryhmästämme: https://t.me/HacklabJKL .
+paikalla. Ja aika usein jatkuukin. Kerhoilta-aikataulua voi tiedustella Freenoden IRC-kanavalta #hacklab.jkl tai `Telegram-ryhmästämme <https://t.me/HacklabJKL>`_.
 	  
 Hacklab Jyväskylän kerhotilat ovat Keskikatu 18A:n pommisuojassa:
 
