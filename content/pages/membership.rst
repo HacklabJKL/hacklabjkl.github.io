@@ -38,7 +38,7 @@ Kerhoiltoihin voi vapaasti tulla tutustumaan jos jäsenyys kiinnostaa. Varsinais
     <label class="leftlabel" for="city">Kotikunta:</label>
     <input type="text" id="city" name="city" required autocomplete="address-level2" value="Jyväskylä">
     </div><div>
-    <label for="irc">IRC-nimimerkki (jos on):</label>
+    <label class="leftlabel" for="irc">IRC-nimimerkki (jos on):</label>
     <input type="text" name="irc" id="irc" autocomplete="nickname">
     </div><div>
     <input type="radio" value="discount" name="membership" id="discount" accesskey="L" />
