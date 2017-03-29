@@ -17,8 +17,8 @@ tahansa. Avaimellisen jäsenyyden hinta on 20€/kk.
 Voit hakea myös alennettua jäsenmaksua, jos taloudellinen tilanteesi
 on heikko. Tällöin hinta on 5€/kk ensimmäisen 12 kuukauden ajan, jonka
 jälkeen hinta on 10€/kk. Alennettu jäsenmaksuluokka oikeuttaa samoihin
-etuihin kuin normaali jäsenyys. Hallituksen jäsenvastaava pyytää
-tarvittaessa perustelut alennukselle.
+etuihin kuin normaali jäsenyys. Pyydämme alennetun jäsenmaksun hakijaa
+täyttämään lomakkeeseen aukeavaan tekstikenttään perustelun alennukselle.
 
 Kerhoiltoihin voi vapaasti tulla tutustumaan jos jäsenyys kiinnostaa. Varsinaiset jäsenhakemukset pyydetään lähettämään `hallitukselle <yhteystiedot.html>`_ sähköpostilla tai allaolevalla lomakkeella:
 
