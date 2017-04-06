@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="http://jyvaskyla.hacklab.fi/en/../theme/css/style.min.css">
+  <link rel="stylesheet" type="text/css" href="http://jyvaskyla.hacklab.fi/en/../theme/css/pygments.min.css">
+  <link rel="stylesheet" type="text/css" href="http://jyvaskyla.hacklab.fi/en/../theme/css/font-awesome.min.css">
+  <link href="http://jyvaskyla.hacklab.fi/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="HacklabJKL Atom">
+  <link rel="shortcut icon" href="http://localhost:8000/images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="http://localhost:8000/images/favicon.ico" type="image/x-icon">
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="" />
+<meta name="author" content="Petteri Aimonen" />
+<meta name="description" content="Labilla rakentuu ison puoleinen CNC-jyrsin, pitkälti rautakauppatavarasta ja ilman liiallista ennakkosuunnittelua. Tuloksia odotellaan mutta ainakin kehitys on ollut lupaavaa." />
+<meta name="keywords" content="">
+<meta property="og:site_name" content="HacklabJKL"/>
+<meta property="og:title" content="Kerhoilta 21.2.: CNC-projekti"/>
+<meta property="og:description" content="Labilla rakentuu ison puoleinen CNC-jyrsin, pitkälti rautakauppatavarasta ja ilman liiallista ennakkosuunnittelua. Tuloksia odotellaan mutta ainakin kehitys on ollut lupaavaa."/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:url" content="http://jyvaskyla.hacklab.fi/en/kerhoilta-212-cnc-projekti.html"/>
+<meta property="og:type" content="article"/>
+<meta property="article:published_time" content="2017-02-21 21:17:00+02:00"/>
+<meta property="article:modified_time" content=""/>
+<meta property="article:author" content="http://jyvaskyla.hacklab.fi/en/author/petteri-aimonen.html">
+<meta property="article:section" content="kerhoilta"/>
+<meta property="og:image" content="">  <title>HacklabJKL &ndash; Kerhoilta 21.2.: CNC-projekti</title>
+</head>
+<body>
+  <aside>
+    <div>
+      <a href="http://jyvaskyla.hacklab.fi/en">
+        <img src="http://jyvaskyla.hacklab.fi/en/images/logo.png" alt="HacklabJKL" title="HacklabJKL">
+      </a>
+      <h1><a href="http://jyvaskyla.hacklab.fi/en">HacklabJKL</a></h1>
+      <p></p>
+      <nav>
+        <ul class="list">
+          <li><a href="/">in finnish</a></li>
+          <li><a href="http://jyvaskyla.hacklab.fi/en/pages/yhteystiedot.html#yhteystiedot">Contact us</a></li>
+          <li><a href="http://jyvaskyla.hacklab.fi/en/pages/jasenyys.html#jasenyys">Membership</a></li>
+          <li><a href="http://jyvaskyla.hacklab.fi/en/pages/yhdistys.html#yhdistys">The association</a></li>
+          <li><a href="http://jyvaskyla.hacklab.fi/en/pages/kerhotila.html#kerhotila">The lab</a></li>
+          <li><a href="http://webchat.freenode.net/?channels=%23hacklab.jkl&uio=MTY9dHJ1ZSYxMT0yNDY57" target="_blank">irc:  #hacklab.jkl @freenode</a></li>
+          <li><a href="" target="_blank"><iframe style="margin-top: 2em;" frameBorder="0" width="200" height="200" src="http://hacklab.ihme.org/visitors/api/v1/visitors?format=iframe"> </iframe></a></li>
+        </ul>
+      </nav>
+      <ul class="social">
+      </ul>
+    </div>
+  </aside>
+  <main>
+
+<article>
+  <header>
+    <h1 id="kerhoilta-212-cnc-projekti">Kerhoilta 21.2.: CNC-projekti</h1>
+    <p>Posted on ti 21 helmikuu 2017 in <a href="http://jyvaskyla.hacklab.fi/en/category/kerhoilta.html">kerhoilta</a></p>
+  </header>
+  <div>
+    <p>Blogin kirjoittaja on tempautunut todenteolla mukaan Sandron CNC-jyrsinprojektiin, ja siten toisten projektien seuraaminen on jäänyt vähän sivuhuomiolle. Mutta eiköhän tästä CNC:stäkin mielenkiintoista kerrottavaa riitä. Laite on varsin kookas, työstöalaksi on tulossa n. 90x80x20cm:</p>
+<img alt="" src="/blogimg/20170221_yleiskuva.jpg" />
+<p>Tällä hetkellä jyrsinprojekti on siinä vaiheessa, että kaikkien kolmen akselin laakeroinnit ovat paikallaan ja niitä pystyy liikuttelemaan. Sen sijaan akselit moottoreihin liittävistä trapetsiruuveista paikallaan on vasta yksi - valmiissa laitteessa tulee niitä olemaan 6 kappaletta, kullekin akselille 2 tasapuolisen vedon aikaansaamiseksi. Moottoreita ei ole vielä ensimmäistäkään ja elektroniikka loistaa poissaolollaan, joten menee vielä tovi ennen kuin tällä jyrsimään pääsee.</p>
+<p>Koko projektin suoritustapa on ollut mukavaa vaihtelua perinteiselle pilkuntarkalle suunnittelulle. Päätavoitteeksi otettiin oppia CNC:n rakentelusta, ja suunnitelmia on tehty sitä mukaa kuin projekti on edennyt. Tietokoneen ja CAD-ohjelmien ääressä ei ole tarvinnut istua, vaan sitäkin enemmän olemme päässeet kiusaamaan muiden labilaisten korvia rautasahan rouskeella ja porakoneen surinalla.</p>
+<p>Koko homman lähtökohtana oli Sandron netistä löytämä rullalaudan pyöriin perustuva kelkkadesign:</p>
+<img alt="" src="/blogimg/20170221_kelkka.jpg" />
+<p>Kelkat liukuvat 50x50mm teräsneliöputkea pitkin. Materiaalit on hommattu pitkälti paikallisesta Motonetista tai eBaysta, mistä vain halvimmalla saa. Osa kiinalaisista &quot;10 kpl 3 eurolla&quot; laakereista on vähän rouheita, mutta toistaiseksi se ei näytä haittaavan juurikaan kelkkojen liikettä.</p>
+<p>Viimeisimpänä paikalleen saatiin Z-akseli, joka liikkuu neljän 12 mm teräsakselin varassa. Jyrsin Z-akselin päätylevyt omalla tehdastekoisella CNC3020-jyrsimelläni, vaikka tämmöinen tarkkuusosien käyttö vähän projektin filosofiaa vastaan sotiikin. Käytännössä nuo olisi varmaan kyllä saanut yhtä hyvin tehtyä myös käsipelilläkin, mutta labin puuntyöstövälineistö on hieman rajallinen vapaamuotoisten aukotusten tekemisen suhteen.</p>
+<img alt="" src="/blogimg/20170221_zakseli.jpg" />
+<p>Sekä Z-akseli että kelkat kaipaavat vielä lisää tukilevyjä. Sandro onkin näitä alkanut jo työstää, mutta jo koottujen kelkkojen purkamisessa, sovittamisessa ja uudelleenkokoamisessa onkin yllättävän paljon työtä. Toinen työläs osuus on trapetsiruuvien päiden viimeistely. Jotta näihin saa näppärästi moottorin kiinni, täytyy 12 mm trapetsiruuvin pääty kaventaa 8 mm paksuiseksi. Tämä onnistuu vaikkapa käsin viilalla, mutta aikaa siinä menee:</p>
+<img alt="" src="/blogimg/20170221_trapetsiruuvi.jpg" />
+<p>Seuraavaksi on tarkoitus alkaa hieman miettiä elektroniikkapuolta, sillä välin kun odotellaan kiinasta lisää osia. Itselläni on joitakin ylijääneitä stepperiohjaimia, joilla päässee hyvään alkuun. Myöhemmin sitten voidaan harkita päivittämistä servoihin, mikä voisi tämän kokoisessa koneessa olla paikallaan.</p>
+
+  </div>
+  <div class="tag-cloud">
+    <p>
+    </p>
+  </div>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'hacklabjkl';
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+</article>
+
+    <footer>
+      <p>&copy; Hacklab Jyväskylä ry </p>
+<p>Built using <a href="http://getpelican.com" target="_blank">Pelican</a> - <a href="https://github.com/alexandrevicenzi/flex" target="_blank">Flex</a> theme by <a href="http://alexandrevicenzi.com" target="_blank">Alexandre Vicenzi</a></p>    </footer>
+  </main>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "name": "Kerhoilta 21.2.: CNC-projekti",
+  "headline": "Kerhoilta 21.2.: CNC-projekti",
+  "datePublished": "2017-02-21 21:17:00+02:00",
+  "dateModified": "",
+  "author": {
+    "@type": "Person",
+    "name": "Petteri Aimonen",
+    "url": "http://jyvaskyla.hacklab.fi/en/author/petteri-aimonen.html"
+  },
+  "image": "{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/profile.png",
+  "url": "http://jyvaskyla.hacklab.fi/en/kerhoilta-212-cnc-projekti.html",
+  "description": "Labilla rakentuu ison puoleinen CNC-jyrsin, pitkälti rautakauppatavarasta ja ilman liiallista ennakkosuunnittelua. Tuloksia odotellaan mutta ainakin kehitys on ollut lupaavaa."
+}
+</script></body>
+</html>
