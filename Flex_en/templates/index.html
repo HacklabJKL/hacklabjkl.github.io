@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<article>
+    <header>
+    <h1>Hacklab Jyväskylä ry</h1>
+    </header>
+
+    <br />
+
+    <div>
+    Welcome to our website! The English translation is in progress. You are
+    welcome to <a href="thelab.html">meet us in the club evening</a> or
+    <a href="yhteystiedot.html">contact us</a> online. There is a list of
+    people currently at the lab in the sidebar.<br /><br />
+
+    <img src='/blogimg/201610_museo.jpg' alt='Welcome to the Hacklab Jyväskylä
+    website!' />
+    </div>
+</article>
+
+{% endblock %}
+
+{% block additional_js %}
+  {% include "partial/jsonld.html" %}
+  {% include "partial/disqus_count.html" %}
+{% endblock %}
+

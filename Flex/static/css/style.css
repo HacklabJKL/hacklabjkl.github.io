@@ -328,7 +328,7 @@ ul.social a.sc-envelope-o {
   }
 }
 .leftlabel {
-  width: 11em;
+  width: 14em;
 }
 .join label {
   display: inline-block;
@@ -342,7 +342,4 @@ ul.social a.sc-envelope-o {
 }
 .control-container {
   margin-top: 1em;
-}
-#discount-motivation-div {
-  display: none;
 }

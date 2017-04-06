@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Hacklab Jyv\xe4skyl\xe4 ry'
 SITENAME = u'HacklabJKL'
-SITEURL = ''
+SITETITLE = SITENAME
+SITEURL = 'http://localhost:8000'
 THEME = 'Flex'
 
 FAVICON = SITEURL + '/images/favicon.ico'
@@ -15,6 +16,16 @@ TIMEZONE = 'Europe/Helsinki'
 LOCALE = ('fi_FI.UTF-8', 'fi_FI', 'fi')
 
 DEFAULT_LANG = u'fi'
+
+STATIC_PATHS = ['images', 'blogimg', 'pdfs', 'extra/CNAME']
+
+I18N_SUBSITES = {
+    'en': {
+        'STATIC_PATHS': STATIC_PATHS,
+        'THEME': 'Flex_en',
+        'THEME_STATIC_DIR': '../theme'
+    }
+}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -43,8 +54,8 @@ DEFAULT_PAGINATION = 10
 PLUGINS = [
     # ...
     'pelican_vimeo',
+    'i18n_subsites'
     # ...
 ]
 
-STATIC_PATHS = ['images', 'blogimg', 'pdfs', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}

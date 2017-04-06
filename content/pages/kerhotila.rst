@@ -1,6 +1,8 @@
 Kerhotila
 #########
 
+:slug: kerhotila
+:lang: fi
 :date: 2015-10-07 18:01
 :tags: info
 :category: info

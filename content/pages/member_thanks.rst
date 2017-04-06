@@ -1,5 +1,7 @@
 Kiitos
 ######
+:lang: fi
+:slug: member_thanks
 :date: 2016-10-04 21:00
 :tags: info
 :title: Kiitos!

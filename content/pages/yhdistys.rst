@@ -1,6 +1,12 @@
 Yhdistys
 ########
 
+:slug: yhdistys
+:lang: fi
+:date: 2017-04-06 21:14
+:tags: info
+:category: info
+
 `Hacklab Jyväskylä ry <http://yhdistysrekisteri.prh.fi/pertied.htx?kieli=1&reknro=206452>`_ on perustettu vuonna 2011. Yhdistys on nimensä mukaisesti `hacklab <http://hacklab.fi/>`_, eli tila jossa on mahdollisuus toteuttaa hyvin laajasti erilaisia teknisiä ja taiteellisia harrastuksia, sekä ihan vain tavata samanhenkistä väkeä.
 
 Säännöt
