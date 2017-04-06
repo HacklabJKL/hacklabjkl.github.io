@@ -10,5 +10,5 @@ Thank you
 :status: hidden
 
 Thank you for the application. The board will process the application and the
-payment instructions will be sent to you.
+payment instructions will be sent to you shortly.
 
