@@ -346,3 +346,6 @@ ul.social a.sc-envelope-o {
 .supporter {
   width: 150px;
 }
+.loweralpha {
+  list-style-type: lower-alpha;
+}
