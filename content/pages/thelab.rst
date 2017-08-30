@@ -25,6 +25,6 @@ the neighbouring streets.
 
 Entry via the yard, you'll see our sign and the doorbell.
 
-If you have any trouble getting there, please call our lab phone: 046 937 8420.
+If you have any trouble getting there, please call our lab phone: 041 807 9416.
 
 We have plenty of tools and materials available for use.

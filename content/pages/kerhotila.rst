@@ -28,7 +28,7 @@ Talon pihassa ei ole pysäköintitilaa Hacklabilaisille, mutta lähiseudulla on 
 
 Sisäänkäynti on sisäpihan puolelta, oven vieressä on Hacklabin kyltti ja ovikello. Usein oikeanpuoleinen ovi on auki lukosta, ja sitä kautta pääsee hissillä kellariin.
 
-Jos on vaikeuksia löytää paikalle, kannattaa soittaa kerhotilan puhelimeen 046 937 8420.
+Jos on vaikeuksia löytää paikalle, kannattaa soittaa kerhotilan puhelimeen 041 807 9416.
 
 Kerhotilan säännöt
 ==================
