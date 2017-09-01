@@ -15,7 +15,7 @@ Location
 Our lab space is located at Keskikatu 18 A, basement. The doors are open for
 everyone on Tuesdays from 18 o'clock on.
 
-Lab phone number: 046 937 8420
+Lab phone number: 041 807 9416
 
 ..  raw:: html
 

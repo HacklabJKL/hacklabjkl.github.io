@@ -14,7 +14,7 @@ Sijainti
    
 Hacklab Jyväskylän kerhotilat ovat Keskikatu 18A:n pommisuojassa. Kaikille avoimet kerhoillat tiistaisin kello 18 alkaen.
 
-Kerhotilan puhelinnumero: 046 937 8420
+Kerhotilan puhelinnumero: 041 807 9416
 
 ..  raw:: html
 
