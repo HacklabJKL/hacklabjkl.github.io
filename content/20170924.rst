@@ -1,0 +1,24 @@
+Säätöpäivä 24.9.2017: CNC:n ekat liikkeet
+#########################################
+
+:date: 2017-09-24 21:17
+:category: kerhoilta
+:authors: Petteri Aimonen
+:summary: Tänään saatiin ensimmäistä kertaa kaikki CNC:n akselit käyttökuntoon ja liikkeelle.
+
+Vajaan vuoden kestäneessä CNC-projektissa saavutettiin tänään iso rajapyykki kun ensimmäistä kertaa kaikki akselit olivat käyttökunnossa ja konetta päästiin testaamaan tussilla piirtämällä:
+
+.. image:: /blogimg/20170924_cnc.jpg
+
+.. raw:: html
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/bSiLzEqyiec" frameborder="0" allowfullscreen></iframe>
+
+Akselicouplerit matkaavat vielä kiinan postissa, joten stepperit ovat vielä toistaiseksi kiinni letkunpätkillä. Tämmöisillä patenteilla päästiin jo etukäteen vähän testailemaan, ja samalla voi paremmalla mielellä laittaa seuraavat osat tilaukseen.
+
+.. image:: /blogimg/20170924_coupler.jpg
+
+Vielä täytyy hommata itse jyrsin. Harkinnassa on `Makita RT0701C <https://www.makitatools.com/products/details/RT0701C>`_ josta ainakin Shapeokon forumeilla on ollut hyviä arvosteluja. Lisäksi X- ja Y-akseleille tulee kullekin vielä toinen trapetsiruuvi lisäämään vääntöjäykkyyttä, ja nämä tarvitsevat stepperit.
+
+LinuxCNC:n konffissa riittää myös vielä ihmeteltävää, ainakin steps per millimeter pitää laskea oikeaksi arvoksi ja kiihtyvyydet testata.
+
