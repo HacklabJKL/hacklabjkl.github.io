@@ -1,4 +1,9 @@
 * Hacklab Jyväskylä website
+
+** THIS PAGE IS NO LONGER IN USE AND HAS SOME SECURITY ISSUES. IT IS AVAILABLE ONLY FOR ARCHIVAL PURPOSES!**
+
+Hacklab Jyväskylä used this website from 2015 to 2017.
+
 ** Development guide
 Written using Python 2.7.6.
 
